@@ -1,0 +1,32 @@
+name: Generate RSS feed
+
+on:
+  schedule:
+    - cron: '0 7,13,19 * * *'  # 3 razy dziennie (07:00, 13:00, 19:00 UTC)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Generate feed.xml
+        run: python feed_generator.py
+
+      - name: Commit and push feed.xml
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add feed.xml
+          git commit -m "Update feed.xml" || echo "No changes to commit"
+          git push
