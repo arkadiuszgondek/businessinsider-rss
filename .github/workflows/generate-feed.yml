@@ -2,7 +2,7 @@ name: Generate RSS feed
 
 on:
   schedule:
-    - cron: '0 7,13,19 * * *'  # 3 razy dziennie (07:00, 13:00, 19:00 UTC)
+    - cron: '0 7,13,19 * * *'  # 3 razy dziennie UTC (czyli 9:00, 15:00, 21:00 czasu PL)
   workflow_dispatch:
 
 jobs:
