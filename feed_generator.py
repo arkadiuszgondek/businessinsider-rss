@@ -102,7 +102,13 @@ for item in items:
         ET.SubElement(item_el, "enclosure", url=item["enclosure"], type=item["enclosure_type"], length="0")
 
 # Zapis do pliku
-tree = ET.ElementTree(rss)
-tree.write(OUTPUT_FILE, encoding="utf-8", xml_declaration=True)
+import xml.dom.minidom as minidom
+
+rough_string = ET.tostring(rss, encoding="utf-8")
+reparsed = minidom.parseString(rough_string)
+pretty_xml = reparsed.toprettyxml(encoding="UTF-8")
+
+with open(OUTPUT_FILE, "wb") as f:
+    f.write(pretty_xml)
 
 print(f"Zapisano {len(items)} artykułów do {OUTPUT_FILE}")
