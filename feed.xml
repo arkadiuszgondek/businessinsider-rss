@@ -239,24 +239,6 @@
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/AzLk9kpTURBXy81N2I1YmQzMDhiN2E4Y2NiMzgzMWE1ZWYwOTBhYWUxNi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 		<item>
-			<title>Bank Anglii zdecydował w sprawie stóp procentowych. Nietypowa reakcja funta</title>
-			<link>https://businessinsider.com.pl/gospodarka/bank-anglii-zdecydowal-w-sprawie-stop-procentowych-nietypowa-reakcja-funta/90rqdp9</link>
-			<description>Bank of England (BoE) zgodnie ze swoim rytmem wrócił do obniżki stóp procentowych raz na kwartał. Podczas sierpniowego posiedzenia koszt pieniądza spadł o 0,25 pkt proc., do 4 proc., czyli najniższego poziomu od ponad dwóch lat. Mimo cięcia funt zyskiwał.</description>
-			<guid isPermaLink="false">0a98b147-d267-4530-b467-2498616b757e</guid>
-			<pubDate>Thu, 07 Aug 2025 11:53:50 GMT</pubDate>
-			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/SaOk9kpTURBXy9hYzIwZjU1N2U3YjFhOWVhMjQxNjZlZGI1MjE5ZjEwZS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Firmy pod lupą UOKiK. Nowe przepisy mają zatrzymać "ekościemę" w reklamach</title>
-			<link>https://businessinsider.com.pl/gospodarka/greenwashing-w-polsce-jak-dyrektywa-green-claims-zmieni-rynek/03602e1</link>
-			<description>Jak informuje "Dziennik Gazeta Prawna", polskie organizacje pozarządowe apelują do UOKiK i Ministerstwa Klimatu i Środowiska o wsparcie dla prac nad tzw. dyrektywą Green Claims, która ma wprowadzić jasne zasady dotyczące komunikowania przez firmy ich proekologicznych działań. W najbliższych dniach do instytucji tych trafi list w tej sprawie. Celem inicjatywy jest uporządkowanie rynku i ograniczenie tzw. greenwashingu, czyli wprowadzania konsumentów w błąd przez "zielone" deklaracje marketingowe.</description>
-			<guid isPermaLink="false">14f094e0-b386-4ce0-88fd-ea62632e5d1c</guid>
-			<pubDate>Thu, 07 Aug 2025 11:31:05 GMT</pubDate>
-			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/tTAk9kpTURBXy84ZDBmMjFlYjYwOGJmYTc0N2Y0YzMxNzg3ZWYyMGJhMS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
 			<title>Premier ostrzega przed wetem. "Można tylko złapać się za głowę"</title>
 			<link>https://businessinsider.com.pl/prawo/donald-tusk-o-weto-prezydenta-to-mozna-tylko-zlapac-sie-za-glowe/42j6r13</link>
 			<description>Premier Donald Tusk w mocnych słowach odniósł się do potencjalnego weta prezydenta Karola Nawrockiego wobec ustawy wiatrakowej, której celem jest liberalizacja przepisów o inwestycjach w farmy wiatrowe na lądzie oraz wprowadzenie zamrożenia cen energii dla gospodarstw domowych do końca 2025 r. Tusk podkreślił, że rząd będzie robił wszystko, aby uniknąć podwyżek cen prądu, choć wyraził zdumienie wobec sygnałów płynących z otoczenia nowo wybranego prezydenta.</description>
@@ -365,6 +347,87 @@
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/cFSk9kpTURBXy9kNmM0MmU1YzU1ODViNzUwYTdlZDZiODhmMjQwNDY1Zi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 		<item>
+			<title>Szczyt Trump-Putin. CNN: to powolna porażka Ukrainy</title>
+			<link>https://businessinsider.com.pl/wiadomosci/szczyt-trump-putin-na-alasce-cnn-to-powolna-porazka-ukrainy/1etdxk3</link>
+			<description>Zaplanowany na 15 sierpnia szczyt prezydenta USA Donalda Trumpa z prezydentem Rosji Władimirem Putinem na Alasce wzbudza kontrowersje oraz obawy o przyszłość Ukrainy. Serwis CNN ocenia, że rozmowy mogą okazać się korzystnym rozwiązaniem dla Moskwy, jednocześnie osłabiając pozycję Kijowa na arenie międzynarodowej.</description>
+			<guid isPermaLink="false">84f890d5-1ace-4c26-afc7-5329f0dd7ead</guid>
+			<pubDate>Sun, 10 Aug 2025 06:59:25 GMT</pubDate>
+			<category>wiadomosci</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/RIdk9kpTURBXy84ZGQ2ZmQxN2Q3NTg3OTFmYWNlZDRjZTJiNmU2MzliMy5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Polacy oceniają zabezpieczenia banków, brokerów i platform inwestycyjnych na mocną "czwórkę"</title>
+			<link>https://businessinsider.com.pl/technologie/nowe-technologie/polacy-oceniaja-zabezpieczenia-bankow-brokerow-i-platform-inwestycyjnych-na-mocna/2n2emy2</link>
+			<description>Jeszcze dekadę temu logowanie do banku mobilnego uchodziło za nowinkę technologiczną, a dziś stało się dla większości Polaków czynnością równie codzienną jak sprawdzanie pogodowej aplikacji. Z taką samą naturalnością użytkownicy przyjęli coraz bardziej złożone mechanizmy uwierzytelniania: od kodów SMS przez biometrię aż po sprzętowe klucze U2F. Jak jednak oceniają te zabezpieczenia? Odpowiedź przynosi badanie przeprowadzone w lipcu 2025 r. na próbie 720 aktywnych klientów banków, brokerów i platform inwestycyjnych.</description>
+			<guid isPermaLink="false">a43dff92-6dc1-4a61-8c25-077ae0d87229</guid>
+			<pubDate>Sun, 10 Aug 2025 06:58:26 GMT</pubDate>
+			<category>technologie</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/xjxk9kpTURBXy8zY2RhOWY3NDExZmM0MTFiMmNiM2RlNmQ4Mjk3NWIyZS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Amerykański rynek pracy postraszył inwestorów. Czy faktycznie jest się czego bać?</title>
+			<link>https://businessinsider.com.pl/gospodarka/dane-z-usa-postraszyly-inwestorow-czy-faktycznie-jest-sie-czego-bac/ht5jvvl</link>
+			<description>Jeszcze niedawno Jerome Powell, prezes Rezerwy Federalnej, ocenił rynek pracy jako solidny. I choć zaznaczał, że rosną obawy o jego kondycję, to najnowszy zestaw danych wskazał, że zamiast solidności, jest stagnacja. Analitycy oceniają, że raport z rynku pracy okazał się punktem zwrotnym, który radykalnie zmienił ocenę stanu gospodarki i perspektyw polityki pieniężnej. Czy to oznacza, że trzeba się liczyć z recesją?</description>
+			<guid isPermaLink="false">ae3347ca-2336-46ad-8eb2-446fea35b12c</guid>
+			<pubDate>Sun, 10 Aug 2025 06:21:05 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/-Uvk9kpTURBXy9lZmI5ZTM0MGFlMzgwY2VhZTAzZGFkNGYyODc5Mjk0NC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Nvidia i Palantir mało atrakcyjne? Największe fundusze mają nowego faworyta giełdowego</title>
+			<link>https://businessinsider.com.pl/wiadomosci/nvidia-i-palantir-malo-atrakcyjne-najwieksze-fundusze-maja-nowego-faworyta-gieldowego/0ce8weg</link>
+			<description>W najnowszym zestawieniu "new buys" wśród najlepszych funduszy inwestycyjnych nie królują już tytani AI. Największe wpływy trafiły do AAR Corp. (symbol: AIR) — dostawcy części do płatowców i silników oraz usług dla lotnictwa cywilnego i sektora obronnego. Skala jest imponująca, bo aż 8,06 mld dol. nowych środków trafiło właśnie do AIR.</description>
+			<guid isPermaLink="false">02fd5c53-653a-451c-ab79-d40878967ce8</guid>
+			<pubDate>Sun, 10 Aug 2025 06:20:11 GMT</pubDate>
+			<category>wiadomosci</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/JPbk9kpTURBXy8wM2FjNTg3NjU0ZTljNmRjZWQ5MWU2N2U2ZDcxZTgwYy5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Jestem CEO Twitcha i tak wygląda mój dzień. Jedzenie na mieście? Po co mam wydawać 30 dol.</title>
+			<link>https://businessinsider.com.pl/lifestyle/zarabia-fortune-ale-na-miescie-nie-jada-po-co-mam-wydawac-30-dol-na-lunch/sdmgnp7</link>
+			<description>Wielu szefów największych firm ma swoje rutyny, a niekiedy wręcz dziwactwa, które pomagają im zachować formę i radzić sobie ze stresem związanym z biznesową odpowiedzialnością. Dan Clancy, od 2023 r. dyrektor generalny Twitcha, również je ma. Budzik nie jest mu potrzebny, woli Coca-Colę od kawy, codziennie biega 8 km i szkoda mu 30 dol. na lunch. Po południu lubi śpiewać piosenki country i niedawno rozmawiał z własnym awatarem AI podczas charytatywnego streamu.</description>
+			<guid isPermaLink="false">b63bdbfb-2bd8-4d8d-a84a-66413fa8a40c</guid>
+			<pubDate>Sun, 10 Aug 2025 06:00:00 GMT</pubDate>
+			<category>lifestyle</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/sqFk9kpTURBXy9jZmE2NmFjMzI5MjU5YTVlNTMzOTZhODliNDcyZTU0Yy5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Awans? Im wyżej, tym gorzej. Choć żaden lider nie chce tego przyznać</title>
+			<link>https://businessinsider.com.pl/praca/syndrom-oszusta-w-przywodztwie-jak-liderzy-radza-sobie-z-presja/x4mzgx1</link>
+			<description>Lider z "syndromem oszusta" brzmi jak oksymoron. A jednak awans na wyższe stanowisko, zamiast dawać poczucie bezpieczeństwa, często potęguje wątpliwości. Badania pokazują, że im wyżej w hierarchii organizacyjnej, tym częściej pojawia się zwątpienie we własne kompetencje. Okazuje się, że "syndrom" oszusta to nie kwestia charakteru, a problem systemowy.</description>
+			<guid isPermaLink="false">5cb524e7-fb63-4cf5-a9e0-4e7ee37fa0b6</guid>
+			<pubDate>Sun, 10 Aug 2025 05:00:00 GMT</pubDate>
+			<category>praca</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/-Xlk9kpTURBXy9jNjZkMmJmM2Q4Yzc2NjhmY2E2MTQ3OWZjYTlmY2E4NS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Lekarz zajmujący się dietami i długowiecznością daje cztery proste rady żywieniowe</title>
+			<link>https://businessinsider.com.pl/lifestyle/jak-jesc-by-zyc-dluzej-i-zdrowiej-oto-cztery-rady-lekarza/tlq53s9</link>
+			<description>Dr Kurt Hong bada, jak to, co człowiek je, wpływa na jego proces starzenia się. Sam stosuje dietę śródziemnomorską, która od lat uznawana jest za najzdrowszy plan żywieniowy.</description>
+			<guid isPermaLink="false">1aeedd39-848f-4a38-b40e-d39503418d48</guid>
+			<pubDate>Sun, 10 Aug 2025 05:00:00 GMT</pubDate>
+			<category>lifestyle</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/ME6k9kpTURBXy9iOWI3NWFhY2RiYmNhYmNkMGI3YjMzNjgxZmM3YTBiYS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>W Polsce nie tak źle? Oto ranking najlepszych krajów do życia</title>
+			<link>https://businessinsider.com.pl/gospodarka/ranking-najlepszych-do-zycia-krajow-swiata-jak-wypada-polska/7tc4mww</link>
+			<description>Gdzie na świecie żyje się najlepiej w 2025 roku — w Europie, Azji czy Ameryce? Na którym kontynencie i w którym kraju świata żyje się najlepiej? Z rankingu bazującego na kilku wskaźnikach dotyczących m.in. siły nabywczej, dostępności mieszkań, kosztów życia i mniej mierzalnych aspektów wyłania się obraz, w którym Polska plasuje się w czwartej dziesiątce między Słowacją i Singapurem.</description>
+			<guid isPermaLink="false">979e8fe1-da5e-4dad-b176-bf326b32ebbc</guid>
+			<pubDate>Sun, 10 Aug 2025 04:30:00 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/cG1k9kpTURBXy83MjQ1Y2FkYThiNDEzMTQ4NzY5MDA4NmM4N2FhOGQ5Yi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Tysiące Polaków mogą nie wiedzieć, że przysługuje im 1878 zł miesięcznie</title>
+			<link>https://businessinsider.com.pl/poradnik-finansowy/swiadczenia-2025-komu-przysluguje-1878-zl-miesiecznie-lista-chorob-i-zasady-wyplat/mjt27q0</link>
+			<description>W 2025 roku renta w wysokości 1878,89 zł miesięcznie przysługuje osobom spełniającym określone kryteria zdrowotne i formalne. Kluczowe znaczenie ma lista schorzeń kwalifikujących do wsparcia oraz decyzja Zakładu Ubezpieczeń Społecznych. Przedstawiamy aktualne zasady przyznawania świadczenia chorobowego oraz grupy osób, które mogą się o nie ubiegać.</description>
+			<guid isPermaLink="false">e10dda84-cd06-4f42-bc30-c1a083df8749</guid>
+			<pubDate>Sun, 10 Aug 2025 03:00:00 GMT</pubDate>
+			<category>poradnik-finansowy</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/I4yk9kpTURBXy8wOWJlYzUyMjBkNTM1YWYwODJiZDkzYTVkNGRmOWE4NC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Chcesz zmienić ścieżkę kariery? Oto co według jednej z dyrektorek Google należy zrobić najpierw</title>
 			<link>https://businessinsider.com.pl/praca/jak-sie-przebranzowic-ekspertka-z-google-wskazuje-na-pierwszy-krok/n3rdrfx</link>
 			<description>Mira Lane, wiceprezeska ds. technologii i społeczeństwa oraz założycielka Envisioning Studio w Google, uważa, że warto podążać za pasją i zmieniać karierę — sama to zrobiła. Jednak zachęca do podejścia do zmiany z odpowiednim planem.</description>
@@ -455,13 +518,13 @@
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/FO5k9kpTURBXy85MDdmNDMxOTU4NzI3MjliZmE4NWFiZGE4ZjVmZmNhOS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 		<item>
-			<title>Co trzeci Polak za biedny na najem, za bogaty na wsparcie</title>
-			<link>https://businessinsider.com.pl/nieruchomosci/mieszkalnictwo-w-polsce-dlaczego-tak-wielu-nie-stac-na-wlasne-lokum/qc1k9df</link>
-			<description>Według najnowszego raportu Habitat for Humanity Poland Polacy coraz większą część swoich dochodów wydają na mieszkanie, a jednocześnie rosną szeregi osób, których nie stać ani na kupno, ani na wynajem odpowiedniego lokum. Paradoksalnie, ta sama grupa nie może liczyć na wsparcie państwa, bo jest "za bogata".</description>
-			<guid isPermaLink="false">fb6183d7-2500-449b-9a58-9510a2ac5685</guid>
-			<pubDate>Sun, 03 Aug 2025 07:00:00 GMT</pubDate>
-			<category>nieruchomosci</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/iGpk9kpTURBXy8yNzU5ZTNiODYxZjBiNjgzOTU0MmFhM2RmYmZhNWI0Ni5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+			<title>"Z pełną determinacją sprawdzimy każdą złotówkę". Resort funduszy o aferze KPO</title>
+			<link>https://businessinsider.com.pl/wiadomosci/ministerstwo-funduszy-kontrole-wydatkow-z-kpo-co-ujawniono/wtd458d</link>
+			<description>Ministerstwo Funduszy i Polityki Regionalnej zapowiada szczegółowe kontrole wydatków z Krajowego Planu Odbudowy, aby upewnić się, że każda wydana złotówka została przeznaczona zgodnie z przeznaczeniem. Podjęta inicjatywa to reakcja na doniesienia o wykorzystywaniu środków m.in. na zakup jachtów, solarium czy wirtualnej strzelnicy przez firmy z sektora turystyki i gastronomii.</description>
+			<guid isPermaLink="false">d43059a9-ac26-4aa8-85cf-1705680331b7</guid>
+			<pubDate>Sat, 09 Aug 2025 19:23:22 GMT</pubDate>
+			<category>wiadomosci</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/n1nk9kpTURBXy85MzljNGI5ZjljNTBhMzI0ZGU4YTZlYWIyNzU4ZjNhNC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 		<item>
 			<title>Nowy podział świata pracy. Kobiety mają etaty, mężczyźni... problem</title>
@@ -770,15 +833,6 @@
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/Bq9k9kpTURBXy9hMDFhNmZhZGZkZjI2MDFkNTk5ZDQxZDY0OTlkODFhYy5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 		<item>
-			<title>Plotka w mediach społecznościowych spowodowała spadek liczby letnich wyjazdów do Japonii</title>
-			<link>https://businessinsider.com.pl/lifestyle/podroze/kraj-traci-turystow-podrozni-zmieniaja-plany-przez-komiks/p0kr6r4</link>
-			<description>Zainteresowanie Japonią wśród turystów z Azji znacznie spadło w czerwcu, po tym, jak w mandze pojawiła się przepowiednia, że w lipcu 2025 r. kraj nawiedzi "katastrofa". Najbardziej odczuwalny był spadek liczby podróżnych z Hongkongu. "Fikcyjna narracja, wzmacniana przez media społecznościowe, mogła stworzyć przekonujący, choć naukowo nieuzasadniony powód do odroczenia podróży" – powiedział jeden z ekspertów.</description>
-			<guid isPermaLink="false">c47da45f-8dd2-449e-8a71-e03f7f0758bd</guid>
-			<pubDate>Sat, 02 Aug 2025 19:45:27 GMT</pubDate>
-			<category>lifestyle</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/o59k9kpTURBXy9iYTA1M2Y5YjkwNGU1OTNhYzMxMmNhYjE2ZTU0ZDNiNC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
 			<title>Cichy złodziej w twoim smartfonie. Wielu już straciło pieniądze z konta</title>
 			<link>https://businessinsider.com.pl/technologie/toxicpanda-grozny-trojan-kradnie-dane-bankowe-sposoby-usuwania-i-zabezpieczenia/p66lf0r</link>
 			<description>ToxicPanda to niebezpieczny malware. Złośliwe oprogramowanie, które po raz pierwszy wykryto w 2022 r., powraca w ulepszonej formie, stając się coraz większym wyzwaniem dla użytkowników Androida. Celem działania ToxicPanda jest kradzież danych logowania do banków — ostrzega portal telepolis.pl.</description>
@@ -876,33 +930,6 @@
 			<pubDate>Fri, 08 Aug 2025 18:49:01 GMT</pubDate>
 			<category>wiadomosci</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/bbGk9kpTURBXy81OTk1MjJlNmUzODM5NzA0NTcwZGJiNzJkMGI1ODkzYi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Media typowały ją na nową szefową PZU. Beata Stelmach stawia sprawę jasno</title>
-			<link>https://businessinsider.com.pl/wiadomosci/beata-stelmach-prezes-totalizatora-sportowego-dementuje-plotki/782ecfz</link>
-			<description>Beata Stelmach, prezes Totalizatora Sportowego, stanowczo zaprzecza doniesieniom o swoim potencjalnym odejściu z firmy. W opublikowanym na LinkedIn oświadczeniu zapewniła, że pozostaje na stanowisku i skupia się na realizacji ambitnych celów rozwojowych, jakie wyznacza kierowana przez nią organizacja.</description>
-			<guid isPermaLink="false">bc80e44a-7d0f-4a14-a3b3-ec458b8a92f1</guid>
-			<pubDate>Fri, 08 Aug 2025 17:41:22 GMT</pubDate>
-			<category>wiadomosci</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/YJIk9kpTURBXy9jMzljYzY4OWNhY2I0NDNlYTIxZmQ0YjdjZmM3NTdjMS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Donald Trump podpisuje historyczny pokój. Armenia i Azerbejdżan kończą konflikt</title>
-			<link>https://businessinsider.com.pl/wiadomosci/armenia-i-azerbejdzan-porozumienie-pokojowe-w-bialym-domu/cby2mgf</link>
-			<description>Armenia i Azerbejdżan, dwaj sąsiedzi uwikłani w jeden z najdłuższych konfliktów ostatnich dekad, przygotowują się do podpisania historycznego porozumienia w piątkowe popołudnie w Białym Domu. Podczas ceremonii oficjalnie zainaugurowany zostanie "Szlak Trumpa na rzecz Międzynarodowego Pokoju i Dobrobytu" — pierwszy krok w stronę stabilizacji w regionie Kaukazu Południowego.</description>
-			<guid isPermaLink="false">4026295f-6857-4136-9ae1-25140b1ca345</guid>
-			<pubDate>Fri, 08 Aug 2025 17:12:53 GMT</pubDate>
-			<category>wiadomosci</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/KiRk9kpTURBXy84YThjMDIxZDVhOTU2Zjc4MTNkMmRmYWRiNDk2OWY4Yi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Amerykańskie media o spotkaniu Donalda Trumpa z Władimirem Putinem. Podają wstępne terminy</title>
-			<link>https://businessinsider.com.pl/wiadomosci/spotkanie-trumpa-i-putina-mozliwe-lokalizacje-i-kluczowe-tematy/mfyw7wr</link>
-			<description>Ewentualne spotkanie prezydentów USA i Rosji, Donalda Trumpa i Władimira Putina, wstępnie zaplanowano na koniec przyszłego tygodnia. Taką datę podała stacja Sky News powołując się na wysokie rangą źródło w Białym Domu. Pozostaje tylko pytanie, gdzie takie spotkanie miałoby się odbyć.</description>
-			<guid isPermaLink="false">4f39bd83-65e8-4809-971a-60058bc982bf</guid>
-			<pubDate>Fri, 08 Aug 2025 17:09:36 GMT</pubDate>
-			<category>wiadomosci</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/YqOk9kpTURBXy9mODNmMDQ4YTJjOGI3ODYxNGFiYTYzOWI1YWI5OTQ2YS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 		<item>
 			<title>Tankowce z rosyjską ropą pod presją. Norwegia podnosi koszty ubezpieczeń</title>
