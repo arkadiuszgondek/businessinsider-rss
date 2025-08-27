@@ -2,13 +2,21 @@ name: Generate RSS feed
 
 on:
   schedule:
-    # Co 3h w dniach 06:00–22:00 CEST (UTC+2): 06,09,12,15,18,21 -> 04,07,10,13,16,19 UTC
+    # Co 3h codziennie między 06:00–22:00 CEST (UTC+2) -> 04,07,10,13,16,19 UTC
     - cron: '0 4,7,10,13,16,19 * * *'
+    # W poniedziałki co 10 minut 07:15–10:00 PL (05:15–08:00 UTC)
+    - cron: '15-59/10 5 * * 1'
+    - cron: '0-59/10 6 * * 1'
+    - cron: '0-59/10 7 * * 1'
+    - cron: '0 8 * * 1'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -16,10 +24,10 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install feedparser
+        run: pip install feedparser==6.0.11
 
       - name: Generate feed.xml
         run: python feed_generator.py
