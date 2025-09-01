@@ -17,6 +17,7 @@ FEED_URLS = [
     "https://businessinsider.com.pl/lifestyle.feed",
     "https://businessinsider.com.pl/sport.feed",
     "https://businessinsider.com.pl/wideo.feed",
+    "https://businessinsider.com.pl/finanse.feed",
 ]
 
 DAYS_TO_KEEP = 7
