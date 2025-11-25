@@ -2,13 +2,10 @@ name: Generate RSS feed
 
 on:
   schedule:
-    # Co 3h codziennie między 06:00–22:00 CEST (UTC+2) -> 04,07,10,13,16,19 UTC
-    - cron: '0 4,7,10,13,16,19 * * *'
-    # W poniedziałki co 10 minut 07:15–10:00 PL (05:15–08:00 UTC)
-    - cron: '15-59/10 5 * * 1'
-    - cron: '0-59/10 6 * * 1'
-    - cron: '0-59/10 7 * * 1'
-    - cron: '0 8 * * 1'
+    # Pon–pt, co 15 min 06:00–10:00 czasu PL
+    # Obecnie: PL = UTC+1, więc 05:00–09:00 UTC
+    - cron: '*/15 5-8 * * 1-5'  # 06:00–09:45 PL (zimą)
+    - cron: '0 9 * * 1-5'       # 10:00 PL (zimą)
   workflow_dispatch:
 
 jobs:
