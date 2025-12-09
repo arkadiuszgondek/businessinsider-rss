@@ -6,6 +6,11 @@ on:
     # Obecnie: PL = UTC+1, więc 05:00–09:00 UTC
     - cron: '*/15 5-8 * * 1-5'  # 06:00–09:45 PL (zimą)
     - cron: '0 9 * * 1-5'       # 10:00 PL (zimą)
+
+    # Poniedziałek 19:00–22:45 PL co 15 min (czyli 18:00–21:45 UTC zimą)
+    - cron: '*/15 18-21 * * 1'
+    - cron: '0 22 * * 1'   # 23:00 PL (zimą)
+
   workflow_dispatch:
 
 jobs:
