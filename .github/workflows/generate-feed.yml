@@ -6,6 +6,10 @@ on:
     # Obecnie: PL = UTC+1, więc 05:00–09:00 UTC
     - cron: '*/15 5-8 * * 1-5'  # 06:00–09:45 PL (zimą)
     - cron: '0 9 * * 1-5'       # 10:00 PL (zimą)
+        # Codziennie 14:00 i 18:00 PL (zimą)
+    - cron: '0 13 * * *'   # 14:00 PL
+    - cron: '0 17 * * *'   # 18:00 PL
+
 
     # Poniedziałek 19:00–22:45 PL co 15 min (czyli 18:00–21:45 UTC zimą)
     - cron: '*/15 18-21 * * 1'
