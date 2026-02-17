@@ -20,7 +20,7 @@ FEED_URLS = [
     "https://businessinsider.com.pl/finanse.feed",
 ]
 
-DAYS_TO_KEEP = 7
+DAYS_TO_KEEP = 10
 OUTPUT_FILE = "feed.xml"
 
 # Pomocnicze
