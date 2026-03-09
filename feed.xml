@@ -5,6 +5,24 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Orlen ogłasza promocję na paliwo. Od czwartku do majówki</title>
+			<link>https://businessinsider.com.pl/finanse/promocja-na-paliwo-na-orlenie-oto-ceny-benzyny-diesla-autogazu/dgyy5nc</link>
+			<description>Orlen ogłosił promocję na paliwo na stacjach, która rusza w czwartek 12 marca. Kierowcy przez osiem kolejnych weekendów będa mogli kupić nawet 50 litrów benzyny lub oleju napędowego w cenie obniżonej nawet o 35 gr — poinformował Orlen. Warunkiem jest posiadanie aplikacji.</description>
+			<guid isPermaLink="false">ef01f00f-2c53-44c1-bd76-e195541104fc</guid>
+			<pubDate>Mon, 09 Mar 2026 19:25:34 GMT</pubDate>
+			<category>finanse</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/D8uk9kpTURBXy83NWYxMzQzMDIzYjA2NzIyODMyOTIwMjliZDc5YjcwMi5wbmeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Liderzy nowych technologii w Polsce. Poznaj Digital Shapers 2025</title>
+			<link>https://businessinsider.com.pl/technologie/nowe-technologie/liderzy-nowych-technologii-w-polsce-poznaj-digital-shapers-2025/4x0hbnb</link>
+			<description>Fundacja Digital Poland ogłosiła podczas 18. edycji Forum Gospodarczego TIME prestiżową Listę Digital Shapers 2025. To zestawienie liderów, innowatorów i wizjonerów, którzy w minionym roku wybitnie przyczynili się do rozwoju ekosystemu cyfrowego i kształtowania technologicznej rzeczywistości w Polsce. W ósmej edycji listy uhonorowano przedstawicieli biznesu, nauki, administracji oraz mediów.</description>
+			<guid isPermaLink="false">7d71b00a-da6a-4006-a553-1bf02dbe823e</guid>
+			<pubDate>Mon, 09 Mar 2026 19:00:29 GMT</pubDate>
+			<category>technologie</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/bjJk9kpTURBXy8wZjE4ODQwOTZmYWYzY2VlMzgzZDEwMjM2NGU1ZjQyZS5wbmeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Kredyt hipoteczny a rozwód. Jak się uchronić przed finansową pułapką?</title>
 			<link>https://businessinsider.com.pl/poradnik-finansowy/kredyty/kredyt-hipoteczny-a-rozwod-co-z-kredytem-po-rozwodzie/7zf3jmt</link>
 			<description>Koniec miłości i definitywny rozpad małżeństwa jest problemem nie tylko na poziomie emocjonalnym, ale także finansowym. Szczególnie jeśli byli małżonkowie wzięli wspólnie kredyt hipoteczny. Bank nie interesuje się relacjami między małżonkami — liczy się dla niego tylko terminowa spłata rat kredytu. Wyjaśniamy, jak można rozwiązać złożoną sytuację po rozwodzie.</description>
@@ -4674,15 +4692,6 @@
 			<pubDate>Fri, 27 Feb 2026 20:19:14 GMT</pubDate>
 			<category>gospodarka</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/sVBk9kpTURBXy8xNzk4Yjc2NDQ4OWM1NWI2MGU3OWQxN2I1ZTc5NzhiNC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Nowa rola byłego premiera Wielkiej Brytanii. Ma doradzać Ukrainie</title>
-			<link>https://businessinsider.com.pl/gospodarka/nowa-rola-bylego-premiera-wielkiej-brytanii-rishi-sunaka-ma-doradzac-ukrainie/ezphhs2</link>
-			<description>Były brytyjski premier Rishi Sunak objął nieodpłatną funkcję doradcy Ukrainy w zakresie odbudowy gospodarki, dołączając do międzynarodowej rady doradczej ds. odnowy ekonomicznej kraju. Informację potwierdzono w dokumentach opublikowanych 27 lutego przez niezależnego doradcę ds. standardów ministerialnych w Wielkiej Brytanii.</description>
-			<guid isPermaLink="false">75dbc02f-92c2-434a-ae91-c51f88e4569b</guid>
-			<pubDate>Fri, 27 Feb 2026 19:19:35 GMT</pubDate>
-			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/WJvk9kpTURBXy84ZGU5ZTQ0NmUzOGI3YjFiNTMwYTZkOTIzMDZmZmE5ZS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
