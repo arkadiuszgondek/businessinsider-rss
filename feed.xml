@@ -5,7 +5,16 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
-			<title>Sprzeczne doniesienia o negocjacjach USA z Iranem. W centrum uwagi wyspa Kharg</title>
+			<title>Stopy procentowe w Polsce.  Członek RPP mówi jasno</title>
+			<link>https://businessinsider.com.pl/gospodarka/stopy-procentowe-w-polsce-czy-bedzie-kolejna-obnizka/1hxlthh</link>
+			<description>Wydaje się, że to była rzeczywiście ostatnia obniżka stóp procentowych w tym roku — powiedział Ludwik Kotecki, członek RPP.</description>
+			<guid isPermaLink="false">e3aa41bc-0398-4fb9-9ee0-08a1726e0947</guid>
+			<pubDate>Mon, 23 Mar 2026 20:58:38 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/i5Yk9kpTURBXy82NDBkZTE4MWFiMjUzNjdiZmEzZWEwMzNmZjEzMWQxZS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Sprzeczne doniesienia o negocjacjach USA z Iranem. W centrum uwagi wyspa Chark</title>
 			<link>https://businessinsider.com.pl/wiadomosci/kiedy-marines-dotra-do-iranu-tego-dnia-uplywa-ultimatum-trumpa/9lw0tmm</link>
 			<description>Pomimo zapewnień Donalda Trumpa o rozmowach z Iranem, pojawiają się medialne doniesienia o koncentracji na Bliskim Wschodzie sił zbrojnych USA, które mogłyby zostać użyte w operacjach lądowych.</description>
 			<guid isPermaLink="false">120d0ad3-5b08-4fb2-9eeb-28bef1391837</guid>
@@ -4242,15 +4251,6 @@
 			<pubDate>Sat, 14 Mar 2026 05:00:00 GMT</pubDate>
 			<category>technologie</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/kqdk9kpTURBXy82NTYxYzEyZjVjZDExNGZhNWRhZWY5MDYyNjMxZDA3Ny5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Marynarka USA walczy z &quot;cichym wrogiem&quot; okrętów. Wdraża specjalny plan</title>
-			<link>https://businessinsider.com.pl/gospodarka/zardzewiale-okrety-usa-plywaja-po-wodach-to-cichy-wrog-marynarki/h7ht6sg</link>
-			<description>Na publikowanych w mediach społecznościowych zdjęciach amerykańskich okrętów widać, że zagrożeniem dla gotowości bojowej marynarki wojennej USA może być &quot;cichy wróg&quot;, który niszczy elementy statków. Stany Zjednoczone wdrażają specjalny plan ochrony.</description>
-			<guid isPermaLink="false">278abb29-04fc-4240-b09a-b2b9e6ba623f</guid>
-			<pubDate>Fri, 13 Mar 2026 20:50:40 GMT</pubDate>
-			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/NZJk9kpTURBXy9jNGI3MjkyNWI0YzlkYjhmZGFmMWQzYmViZDM0NGUxNi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
