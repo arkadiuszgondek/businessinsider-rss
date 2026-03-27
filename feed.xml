@@ -5,12 +5,30 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
-			<title>Nieoficjalnie: rząd chce uderzyć w przedsiębiorców na ryczałcie. Zapłacą więcej</title>
-			<link>https://businessinsider.com.pl/finanse/nieoficjalnie-rzad-chce-uderzyc-w-ryczaltowcow-zaplaca-wyzszy-podatek/tx8vs37</link>
-			<description>Jak informuje &quot;Rzeczpospolita&quot;, Ministerstwo Finansów przygotowało projekt zmian, który ma ograniczyć zjawisko optymalizacji podatkowej.</description>
+			<title>Idzie gorsza koniunktura. Specjalny wskaźnik spada</title>
+			<link>https://businessinsider.com.pl/gospodarka/idzie-gorsza-koniunktura-specjalny-wskaznik-spada/k0lzj66</link>
+			<description>Wskaźnik wyprzedzający koniunktury (WWK), informujący z wyprzedzeniem o przyszłych tendencjach w gospodarce w marcu 2026 r. spadł o 0,8 pkt w stosunku do wartości z ubiegłego miesiąca. Była to druga z rzędu obniżka wskaźnika. Warunki panujące obecnie w otoczeniu gospodarki nie sprzyjają tendencjom wzrostowym, a wręcz przeciwne, zwiększają niepewność i ryzyko, w tym ryzyko wyższej inflacji.</description>
+			<guid isPermaLink="false">dca679d7-f20f-4253-b5fb-259ddc2ff79d</guid>
+			<pubDate>Fri, 27 Mar 2026 08:05:45 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/q1Yk9kpTURBXy9mOTY0ZjZhY2NiZmNkODQ3N2QxYTc5NTk3NzFkN2Y0MC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Polacy zmieniają nawyki zakupowe przed świętami. Sklepy szykują się na tłumy</title>
+			<link>https://businessinsider.com.pl/finanse/wielkanocne-zakupy-coraz-pozniej-eksperci-ostrzegaja-przed-tlumami-w-sklepach/b5wdhpk</link>
+			<description>Coraz więcej Polaków odkłada wielkanocne zakupy spożywcze na ostatnią chwilę. Może to oznaczać wydłużone kolejki w sklepach w Wielkim Tygodniu.</description>
+			<guid isPermaLink="false">489fbb39-4c9f-4216-864a-cadfb1cc237a</guid>
+			<pubDate>Fri, 27 Mar 2026 07:56:24 GMT</pubDate>
+			<category>finanse</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/_4-k9kpTURBXy8wMDk4NzBiYmViY2ExZDJmZWNmNGQzN2IxMDNhMjIxZC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Rząd chce uderzyć w przedsiębiorców na ryczałcie. Zapłacą więcej</title>
+			<link>https://businessinsider.com.pl/prawo/rzad-chce-uderzyc-w-ryczaltowcow-zaplaca-wyzszy-podatek/3mel39n</link>
+			<description>Ministerstwo Finansów przygotowało projekt zmian, który ma ograniczyć zjawisko optymalizacji podatkowej.</description>
 			<guid isPermaLink="false">d2053acf-471b-45c3-8b08-d795324d3788</guid>
 			<pubDate>Fri, 27 Mar 2026 07:16:03 GMT</pubDate>
-			<category>finanse</category>
+			<category>prawo</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/9Nuk9kpTURBXy9mNzcwYzg5NmE0NmY5YzkwNzhmYTQ3Zjc3Y2UzN2FjYy5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 		<item>
@@ -70,7 +88,7 @@
 		<item>
 			<title>40-latku, emerytury w dół. Dane GUS tylko to potwierdzają [KWOTY]</title>
 			<link>https://businessinsider.com.pl/praca/emerytury/wysokosc-emerytur-spadnie-gus-podal-kluczowe-dane/vz4f1c2</link>
-			<description>Polacy będą żyli dłużej. To niby dobrze, ale są też bardzo wymierne minusy takiego stanu rzeczy. Liczone w setkach złotych miesięcznie. Oszacowaliśmy, jak bardzo długowieczność obniży nasze przyszłe emerytury. Mamy konkretne kwoty. W niektórych przypadkach może chodzić nawet kilkaset złotych mniej.</description>
+			<description>Polacy będą żyli dłużej. To niby dobrze, ale są też bardzo wymierne minusy takiego stanu rzeczy. Oszacowaliśmy, jak bardzo długowieczność obniży nasze przyszłe emerytury. Mamy konkretne kwoty. W niektórych przypadkach może chodzić nawet o kilkaset złotych mniej.</description>
 			<guid isPermaLink="false">8ba21633-b23f-49e6-a15e-5f1ddea2e8f2</guid>
 			<pubDate>Fri, 27 Mar 2026 05:24:33 GMT</pubDate>
 			<category>praca</category>
@@ -4413,15 +4431,6 @@
 			<pubDate>Tue, 17 Mar 2026 08:42:11 GMT</pubDate>
 			<category>gospodarka</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/3bCk9kpTURBXy9kOTY0YWVlMTc0MjdjMDg4NmY3YzRiYWVlNWUwMzEyNC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>ZUS wypłaci trzynastą emeryturę przed Wielkanocą. Sprawdź, kto może dostać więcej</title>
-			<link>https://businessinsider.com.pl/gospodarka/trzynasta-emerytura-2026-wyzsza-niz-rok-temu-prosty-sposob-na-wieksza-kwote/0nnr87m</link>
-			<description>W kwietniu 2026 r. emeryci i renciści otrzymają trzynastą emeryturę, która będzie wyższa niż w poprzednim roku. Wystarczy jednak wypełnić jeden prosty formularz, by tegoroczne świadczenie mogło wzrosnąć nawet o kilkaset złotych.</description>
-			<guid isPermaLink="false">0d3d512f-5413-4664-9a75-3260d8411d50</guid>
-			<pubDate>Tue, 17 Mar 2026 08:03:52 GMT</pubDate>
-			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/MN3k9kpTURBXy8xOWU5MzdkODhhZTExN2ZmOTlmZDhiZDEzYWZjYTk3Mi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
