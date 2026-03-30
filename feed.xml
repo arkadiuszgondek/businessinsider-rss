@@ -5,6 +5,24 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Kolejny szok na rynku. Teraz WTI</title>
+			<link>https://businessinsider.com.pl/gospodarka/ceny-ropy-wti-przekroczyly-100-dolarow-brent-jeszcze-drozsza/b35qm3c</link>
+			<description>Ceny amerykańskiej ropy wzrosły na zamknięciu poniedziałkowej sesji do ponad 100 dol. za baryłkę — najwyższego poziomu od 2022 r.</description>
+			<guid isPermaLink="false">9f529a87-0a20-4c9e-a8b6-230d040ff5c5</guid>
+			<pubDate>Mon, 30 Mar 2026 19:47:28 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/vJyk9kpTURBXy8yODJhNjE0MmFlZmZhZTM5ODFlZGNmMDI2ZGYzNThiZC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Prognozy inflacji. Minister finansów mówi jasno</title>
+			<link>https://businessinsider.com.pl/gospodarka/inflacja-w-polsce-minister-finansow-podal-prognozy/rtdkt4r</link>
+			<description>Andrzej Domański potwierdził, że prognoza 3-procentowej inflacji w tym roku jest nadal aktualna. Minister finansów został też zapytany, czy rząd planuje obniżyć VAT na żywność.</description>
+			<guid isPermaLink="false">e48447cf-14b3-4045-9ca4-8415983dd764</guid>
+			<pubDate>Mon, 30 Mar 2026 19:34:00 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/I_8k9kpTURBXy83YWM1OGZjMmQyZDY2ZjM3MzA5MTA1MmQ5NGIwZWRiYS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Największy kryzys od dekad. Wojna obnażyła słabości gospodarki ZEA</title>
 			<link>https://businessinsider.com.pl/gospodarka/wojna-usa-iran-ujawnila-slabosci-zea-kraj-zatoki-perskiej-traci-miliardy/r8064k6</link>
 			<description>Zjednoczone Emiraty Arabskie (ZEA) stoją w obliczu największego wstrząsu gospodarczego od dziesięcioleci. Wojna na Bliskim Wschodzie obnażyła podatny na kryzys model gospodarczy kraju.</description>
@@ -4395,15 +4413,6 @@
 			<pubDate>Fri, 20 Mar 2026 19:59:55 GMT</pubDate>
 			<category>biznes</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/vRTk9kpTURBXy84ZjUxM2E0ZGMxY2UxMGE4NDExMzA1ZDE3YzE3MzMzNi5wbmeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Donald Tusk o SAFE. To usłyszał w Brukseli. &quot;Wszyscy rozumieją&quot;</title>
-			<link>https://businessinsider.com.pl/gospodarka/kiedy-polska-dostanie-pieniadze-z-programu-safe-donald-tusk-tlumaczy/5zt4m5c</link>
-			<description>Donald Tusk na antenie TVN24 zabrał głos na temat terminu podpisania umowy w sprawie unijnego programu SAFE. Jak stwierdził, bez względu na konflikt pomiędzy rządem a prezydentem w tej kwestii &quot;te pieniądze, tak czy inaczej, do Polski popłyną&quot;.</description>
-			<guid isPermaLink="false">16d05db9-3221-4e3a-b29d-132d0af03957</guid>
-			<pubDate>Fri, 20 Mar 2026 19:48:40 GMT</pubDate>
-			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/7Azk9kpTURBXy8zMGI2M2RlYzEwOGZiMTllYTEyMzYzNjYzNjc3NjExNC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
