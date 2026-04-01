@@ -5,6 +5,24 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Donald Trump wściekły za cieśninę Ormuz. &quot;Poważnie rozważam wycofanie USA z NATO&quot;</title>
+			<link>https://businessinsider.com.pl/wiadomosci/donald-trump-grozi-wycofaniem-usa-z-nato-papierowy-tygrys/emc18gp</link>
+			<description>Prezydent Stanów Zjednoczonych w rozmowie z brytyjskim dziennikiem &quot;The Telegraph&quot; zapowiedział, że poważnie rozważa wycofanie USA z NATO. Donald Trump ma żal, że sojusznicy nie pomogli mu z bałaganem, który atak na Iran wywołał w cieśninie Ormuz.</description>
+			<guid isPermaLink="false">ffa2dce3-a8df-4be0-9bba-1f486d867934</guid>
+			<pubDate>Wed, 01 Apr 2026 09:54:10 GMT</pubDate>
+			<category>wiadomosci</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/9Kak9kpTURBXy8wYWJjNTliNTQyZGQyNzc0NTRlYTI1MzY4YzRlZGY5NS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Duże przejęcie Orlenu. Polska ma być kluczowym producentem w Europie</title>
+			<link>https://businessinsider.com.pl/gospodarka/orlen-oglasza-przejecie-waznej-spolki-szef-koncernu-przedstawil-ambitne-plany/rmj4cfg</link>
+			<description>Prezes Orlenu Ireneusz Fąfara zapowiedział, że produkcja w instalacji Polimery Police, przejmowanej od Grupy Azoty, może ruszyć w 2027 r.</description>
+			<guid isPermaLink="false">428e7236-c09c-421a-89f5-5541b691067c</guid>
+			<pubDate>Wed, 01 Apr 2026 09:49:34 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/-0Bk9kpTURBXy85MWQ1MjYyYjIwZjViOWMwOWU2NGNiMmVmYTMwNWQ3Yi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Oto ile kosztuje praca Polaków. Widać wzrost. Tak wypadamy na tle Europy</title>
 			<link>https://businessinsider.com.pl/praca/wyliczyli-koszty-pracy-polakow-jest-wzrost-tak-wypadamy-na-tle-europy/fb5pz8t</link>
 			<description>W Polsce rosną średnie godzinowe koszty pracy — wynika z danych opublikowanych przez Eurostat. Nadal jednak mamy dużą przewagę nad europejskimi krajami, w których są one najwyższe.</description>
@@ -16,7 +34,7 @@
 		<item>
 			<title>Polska z najniższym bezrobociem w UE. Europejskie dane rzucają nowe światło na rynek pracy</title>
 			<link>https://businessinsider.com.pl/praca/bezrobocie-w-polsce-wedlug-unijnego-urzedu-nowe-dane-za-luty-2026-r/1vgjwbr</link>
-			<description>W Polsce jest 955 tys. bezrobotnych czy 577 tys.? To zależy, czy weźmiemy pod uwagę statystyki z urzędów pracy, czy dane Eurostatu.</description>
+			<description>W Polsce jest 955 tys. bezrobotnych czy 577 tys.? To zależy, czy weźmiemy pod uwagę statystyki z urzędów pracy czy dane Eurostatu.</description>
 			<guid isPermaLink="false">0eb52adf-53b1-4f10-a835-73772c589d5c</guid>
 			<pubDate>Wed, 01 Apr 2026 09:02:09 GMT</pubDate>
 			<category>praca</category>
@@ -4908,15 +4926,6 @@
 			<pubDate>Sun, 22 Mar 2026 10:21:39 GMT</pubDate>
 			<category>technologie</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/bflk9kpTURBXy8zZWM4Nzk0ODQ4YjE4MzJhZGFkNzk0YmQxYjEzNGI4NC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Złe wieści dla kredytobiorców. Ekspert o stopach procentowych</title>
-			<link>https://businessinsider.com.pl/gospodarka/banki-centralne-wstrzymuja-sie-z-obnizkami-stop-eksperci-radza-ostroznosc/msm1pmc</link>
-			<description>Główne banki centralne utrzymały stopy procentowe mimo wcześniejszych spekulacji o możliwych zmianach. Niepewność co do rozwoju sytuacji inflacyjnej skłoniła decydentów do zachowania ostrożności w polityce pieniężnej.</description>
-			<guid isPermaLink="false">e96b8839-6bdb-4f57-9138-c914a4810584</guid>
-			<pubDate>Sun, 22 Mar 2026 09:42:04 GMT</pubDate>
-			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/a4Gk9kpTURBXy81YmVhZWRmYTU0NjhiYzEyNmJhZDdiN2E3MmUyZTU1NS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
