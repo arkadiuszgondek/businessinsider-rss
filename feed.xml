@@ -5,9 +5,45 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
-			<title>Przemówienie Donalda Trumpa uderzyło w rynki. Giełdy akcji i złoto mocno w dół</title>
+			<title>Znacząca poprawa sytuacji Poczty Polskiej. Spółka pokazała wyniki</title>
+			<link>https://businessinsider.com.pl/finanse/znaczaca-poprawa-sytuacji-poczty-polskiej-spolka-pokazala-wyniki/0w11ne2</link>
+			<description>Poczta Polska zakończyła 2025 r. z wyraźną poprawą wyników finansowych.</description>
+			<guid isPermaLink="false">d6ef138c-d1f1-4e4c-9dc9-1b94f56ea0f4</guid>
+			<pubDate>Thu, 02 Apr 2026 09:38:18 GMT</pubDate>
+			<category>finanse</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/y-Ek9kpTURBXy83OThhYmM3M2FjZTFjNjE1ZmViMGUzZTkzOWIxMjBlMi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>ZUS podwyższa emerytury. Wystarczy jeden dokument sprzed lat</title>
+			<link>https://businessinsider.com.pl/praca/emerytury/zus-podwyzsza-emerytury-za-prace-przed-1999-r-jakie-dokumenty-i-ile-mozna-zyskac/wbpyqj4</link>
+			<description>Choć to może brzmieć zbyt pięknie, żeby było prawdziwe, to faktycznie jeden dokument może znacząco zmienić wysokość emerytury wypłacanej przez ZUS. Brakujące poświadczenie zatrudnienia posłuży do ponownego przeliczenia świadczenia i może podwyższyć emeryturę na stałe.</description>
+			<guid isPermaLink="false">091304ce-cf51-4a89-9073-66fcec7b2f14</guid>
+			<pubDate>Thu, 02 Apr 2026 09:11:00 GMT</pubDate>
+			<category>praca</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/Yjok9kpTURBXy9kMGZjM2M0MDFiNjAzZTkzNmVkZDc5YzhmM2MxZjEzNC5wbmeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Gdzie najtaniej kupić jajka i jaka cena jest OK? Ostra walka sieci handlowych</title>
+			<link>https://businessinsider.com.pl/finanse/handel/gdzie-najtaniej-kupic-jajka-sieci-handlowe-chronia-swoje-marze/293yvzv</link>
+			<description>Sieci handlowe wyraźnie zmieniły strategię promocyjną przed tegoroczną Wielkanocą. Jak wynika z raportu Hiper-Com Poland i UCE Research, liczba akcji promocyjnych na jajka spadła o 4,6 proc. rok do roku.</description>
+			<guid isPermaLink="false">fa807a25-8f83-4b2d-84b8-1bb62ac24081</guid>
+			<pubDate>Thu, 02 Apr 2026 09:10:05 GMT</pubDate>
+			<category>finanse</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/OSCk9kpTURBXy9kYWFmMjU0NzA0NDg4NDYxZmQwM2Q2MGUwYzhhNWQyMy5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Polacy zmagają się ze wzrostem rachunków. Badanie pokazuje, jak oszczędzają</title>
+			<link>https://businessinsider.com.pl/finanse/polacy-oszczedzaja-zeby-oplacic-rachunki-z-tego-rezygnuja-najczesciej/knc230f</link>
+			<description>Z najnowszego badania &quot;To my. Polacy o nieruchomościach — I kwartał 2026&quot; wynika, że zdaniem aż 64 proc. ankietowanych rachunki będą nadal rosły — niezależnie od podejmowanych działań.</description>
+			<guid isPermaLink="false">fddf75fa-0ef2-4e7f-9487-9eacf511e787</guid>
+			<pubDate>Thu, 02 Apr 2026 08:35:59 GMT</pubDate>
+			<category>finanse</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/VtUk9kpTURBXy8xMzc5YTNjMDVjYTY2ODFkZTcyY2YzY2ZiMDkyODU5Yi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Przemówienie Donalda Trumpa uderzyło w rynki. Giełdy akcji, złoto i bitcoin mocno w dół</title>
 			<link>https://businessinsider.com.pl/gospodarka/przemowienie-donalda-trumpa-zmienilo-wszystko-gieldy-akcji-i-zloto-mocno-w-dol/wnd335d</link>
-			<description>Jeszcze kilka lat temu to Władimir Putin sterował notowaniami rynkowymi, regulując przepływem gazu i ropy. Ale to Donald Trump jest w tym mistrzem. Jego ostatnie słowa zachwiały w czwartek rynkiem akcji i złota. I to dzień po tym, jak poprzednie słowa dały temu rynkowi nadzieję i wzrosty.</description>
+			<description>Jeszcze kilka lat temu to Władimir Putin sterował notowaniami rynkowymi na świecie, regulując przepływem gazu i ropy. Ale to Donald Trump jest w tym mistrzem. Jego ostatnie słowa zachwiały w czwartek rynkiem akcji i złota. I to dzień po tym, jak poprzednie jego słowa dały temu rynkowi nadzieję i wzrosty.</description>
 			<guid isPermaLink="false">7f4f183d-3b54-444d-827a-59a4b2bc8c50</guid>
 			<pubDate>Thu, 02 Apr 2026 08:09:07 GMT</pubDate>
 			<category>gospodarka</category>
@@ -5016,51 +5052,6 @@
 			<pubDate>Mon, 23 Mar 2026 10:08:38 GMT</pubDate>
 			<category>wiadomosci</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/ZXgk9kpTURBXy9hNjY0ODVhYjFhMGU3NTk5MjEwZDVhNjQxNzNjZmM5ZS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Orlen Unipetrol wprowadza zakaz dla aut z Chin. Zdecyduje jeden szczegół</title>
-			<link>https://businessinsider.com.pl/wiadomosci/orlen-wprowadza-zakaz-dla-aut-z-chin-decydujacy-bedzie-jeden-szczegol/sfvtze8</link>
-			<description>Orlen Unipetrol wprowadza zakaz wjazdu chińskich samochodów do rafinerii w Czechach. Nowe zasady obejmują wszystkie pojazdy wyprodukowane w Chinach, zarówno elektryczne, jak i spalinowe. O tym, czy auto podlega zakazowi, decyduje numer VIN — informuje serwis Auto Pravda.</description>
-			<guid isPermaLink="false">846b86b0-4769-483d-b816-5f6e5a537428</guid>
-			<pubDate>Mon, 23 Mar 2026 09:35:49 GMT</pubDate>
-			<category>wiadomosci</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/smrk9kpTURBXy82MWUwZjU0NTBmN2NkOGIxYjUyYTM4NDRhM2QyNDMyOC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Kluczowy kraj interweniuje na swoim rynku paliw. &quot;Zamrożone&quot; ceny</title>
-			<link>https://businessinsider.com.pl/gospodarka/chiny-ograniczaja-wzrost-cen-paliw-rzad-reaguje-na-kryzys-energetyczny/tlg3bkc</link>
-			<description>Chińskie władze zdecydowały się ograniczyć wzrost cen paliw, aby złagodzić skutki rosnących cen ropy na światowych rynkach. To kolejny przykład aktywnej interwencji państwa w gospodarkę i ceny paliw w obliczu globalnych problemów energetycznych.</description>
-			<guid isPermaLink="false">f2ec74a0-f056-4207-843c-a52c751d75ff</guid>
-			<pubDate>Mon, 23 Mar 2026 09:13:14 GMT</pubDate>
-			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/NOYk9kpTURBXy8xNmFiYjI4NWZlMzAxYzMxYTFlODVhM2NjNzcxNjAyNC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Ultimatum USA wobec Iranu napędza cenę ropy. Eksperci ostrzegają</title>
-			<link>https://businessinsider.com.pl/gospodarka/napiecia-usa-i-iranu-podbijaja-ceny-ropy-rynki-reaguja-gwaltownie/fs33h22</link>
-			<description>Rosnące napięcie między Stanami Zjednoczonymi i Iranem dotyczące cieśniny Ormuz napędza wzrost ceny ropy naftowej. Waszyngton stawia ultimatum, Teheran odpowiada, a eksperci szacują, że już wkrótce wycena czarnego surowca może przekroczyć rekordowy poziom z 2008 r. wynoszący 147,50 dol. za baryłkę.</description>
-			<guid isPermaLink="false">87c85b2d-17f3-41aa-831b-1437b8c58b0d</guid>
-			<pubDate>Mon, 23 Mar 2026 09:08:21 GMT</pubDate>
-			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/2fwk9kpTURBXy9kNzBiZDY5Njc3MTkzZDc5ZGIyMzAyOGEyMGFjYTFmMC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Dezinformacja nowym ryzykiem operacyjnym. Fałszywe narracje o klimacie i energii uderzają w wyniki firm</title>
-			<link>https://businessinsider.com.pl/biznes/dezinformacja-klimatyczna-rosnie-w-sile-raport-realne-ryzyko-dla-firm-inwestycji-i/w2z37lz</link>
-			<description>Według Światowego Forum Ekonomicznego dezinformacja jest jednym z największych zagrożeń na świecie. Może dotyczyć szeregu kwestii, w tym energii i klimatu. Z raportu &quot;Odporna i silna Polska&quot; Fundacji Climate&amp;amp;Strategy wynika, że dezinformacja klimatyczna i energetyczna stanowi pełnoprawne ryzyko biznesowe, które może prowadzić do błędnych decyzji, opóźnień inwestycyjnych i utraty reputacji.</description>
-			<guid isPermaLink="false">5de528c3-376c-41b9-b1db-0b62cabaef30</guid>
-			<pubDate>Mon, 23 Mar 2026 09:00:00 GMT</pubDate>
-			<category>biznes</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/quok9kpTURBXy8zMjY3OTQzMWE0MzE0Mjg0YzllYzc2NGY1YjczZGY2My5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Odporność to za mało. Polski biznes musi nauczyć się zarabiać na kryzysach klimatycznych i energetycznych</title>
-			<link>https://businessinsider.com.pl/biznes/polskie-firmy-w-pulapce-wysokich-cen-energii-raport-odpornosc-to-za-malo/dq688x3</link>
-			<description>Polskie firmy wciąż myślą o kryzysach klimatycznych i energetycznych w kategoriach &quot;przetrwania&quot;. Raport Fundacji Climate&amp;amp;Strategy pokazuje, że to za mało: w świecie szoków cenowych, blackoutów i susz wygrywają ci, którzy potrafią przekształcić zmienność w przewagę.</description>
-			<guid isPermaLink="false">e4ae3987-1553-4551-b3aa-035f3f64886d</guid>
-			<pubDate>Mon, 23 Mar 2026 09:00:00 GMT</pubDate>
-			<category>biznes</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/wKck9kpTURBXy8yMjlkMWYyZWVlOTRmNjAxMmNjMDhkOGU1MDEzNzBlNi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
