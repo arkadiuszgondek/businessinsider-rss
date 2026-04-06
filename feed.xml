@@ -5,9 +5,27 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Amerykański bank ostrzega przed &quot;krytycznym niedoborem&quot; ropy. Wskazuje konkretną datę</title>
+			<link>https://businessinsider.com.pl/gospodarka/krytyczny-niedobor-ropy-juz-za-cztery-dni-niepokojacy-raport-amerykanskiego-banku/5nbl8hh</link>
+			<description>Wojna z Iranem i zamknięcie cieśniny Ormuz mogą wpędzić Europę w kryzys związany z ropą naftową. Tak wynika z analizy przygotowanej przez amerykański bank J.P. Morgan. Według wyliczeń analityków import ropy do Europy całkowicie ustanie od 10 kwietnia.</description>
+			<guid isPermaLink="false">47511300-7a31-4f9c-85dc-eeaa1095ae09</guid>
+			<pubDate>Mon, 06 Apr 2026 10:02:12 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/0ilk9kpTURBXy85YTU0ODFhNDMwZmFiZjQzZDAxYzFhMjUyYzZkOTliOC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Możesz pozwać Instagram za uzależnienie dziecka. To wojna, nie proces — ostrzega prawnik</title>
+			<link>https://businessinsider.com.pl/prawo/rodzic-kontra-instagram-czy-mozna-wygrac-odszkodowanie-za-uzaleznienie-dziecka/9ktfslm</link>
+			<description>Czy w Polsce da się pozwać Instagram za uzależnienie dziecka i wygrać odszkodowanie? Tak, ale to będzie kosztowna i trudna bitwa — mówi radca prawny Maciej Gawroński. Specjalnie dla Business Insider Polska wyjaśnia, co, dlaczego i za ile trzeba zrobić.</description>
+			<guid isPermaLink="false">9db8f4e4-685c-4472-9aa7-25714eedd047</guid>
+			<pubDate>Mon, 06 Apr 2026 09:46:04 GMT</pubDate>
+			<category>prawo</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/iYTk9kpTURBXy9iMmQ5NWIxOGY4NTYzYTQyMmZiYmMyOGViMzIyM2I0OS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Rządowy program CPN na dłuższą metę ryzykowny. Jest pierwsze ostrzeżenie</title>
 			<link>https://businessinsider.com.pl/gospodarka/ceny-maksymalne-paliw-ue-boi-sie-trzeciego-kryzysu/2fgmr21</link>
-			<description>Urzędnicy UE wzywają rządy do unikania nadmiernego wsparcia w celu zrównoważenia rosnących cen paliw.</description>
+			<description>Urzędnicy UE wzywają rządy do unikania nadmiernego wsparcia w celu obniżenia rosnących cen paliw. Bruksela boi się trzeciego kryzysu.</description>
 			<guid isPermaLink="false">16a3984a-c85e-45cd-bc90-d8742a44d65c</guid>
 			<pubDate>Mon, 06 Apr 2026 09:29:22 GMT</pubDate>
 			<category>gospodarka</category>
@@ -4206,15 +4224,6 @@
 			<pubDate>Fri, 27 Mar 2026 10:18:05 GMT</pubDate>
 			<category>prawo</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/SsWk9kpTURBXy83YmRmZmIwOWFlYTI0NzkxZWIzYWY0NzdhMDNmOTdhZi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Czeka nas &quot;inflacyjny rollercoaster&quot;. Są nowe prognozy</title>
-			<link>https://businessinsider.com.pl/gospodarka/czeka-nas-inflacyjny-rollercoaster-sa-nowe-prognozy/b1mkjj3</link>
-			<description>Najbliższe tygodnie będą stały pod znakiem dużych wahań inflacji. Ekonomiści twierdzą, że po marcowym wyskoku czeka nas równie gwałtowna obniżka.</description>
-			<guid isPermaLink="false">9d6ad3fe-b657-4c18-9f67-aff962844ca4</guid>
-			<pubDate>Fri, 27 Mar 2026 09:56:19 GMT</pubDate>
-			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/vyTk9kpTURBXy8zMzgwN2VlMjI5MWIxZTQyYTYwZTk5NGM5ODg5YWZjYi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
