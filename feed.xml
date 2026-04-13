@@ -5,6 +5,15 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>USA blokują irańskie porty. Ekspert wskazuje możliwe ruchy</title>
+			<link>https://businessinsider.com.pl/gospodarka/dlaczego-usa-blokuja-ormuz-i-co-zrobi-iran/6kpczpf</link>
+			<description>Iran ma kilka możliwości zmniejszenia skutków gospodarczych blokady USA — ocenia ekspert.</description>
+			<guid isPermaLink="false">3e469d53-01bf-4c57-8506-4fc5f920c5c9</guid>
+			<pubDate>Mon, 13 Apr 2026 20:17:20 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/2fwk9kpTURBXy9kNzBiZDY5Njc3MTkzZDc5ZGIyMzAyOGEyMGFjYTFmMC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Polskie rezerwy złota stale rosną. Najnowsze dane NBP</title>
 			<link>https://businessinsider.com.pl/gospodarka/polska-w-swiatowej-czolowce-rezerw-zlota-komunikat-nbp/v9eyynr</link>
 			<description>Na koniec lutego 2023 r. Narodowy Bank Polski posiadał 570,4 tony złota o wartości 339,8 mld zł. Udział tego kruszcu w oficjalnych aktywach rezerwowych NBP wynosi obecnie 31 proc.</description>
@@ -3657,15 +3666,6 @@
 			<pubDate>Sat, 04 Apr 2026 04:02:00 GMT</pubDate>
 			<category>finanse</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/PiBk9kpTURBXy83OTE4NjY5MjlkN2Q3ZTMyYjEwYWM2MzgwYmJmNzYwZC5wbmeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Zaskoczenie w USA. Fed ma twardy orzech do zgryzienia</title>
-			<link>https://businessinsider.com.pl/gospodarka/duze-zaskoczenie-w-usa-fed-ma-wolna-reke-zeby-martwic-sie-inflacja/044vfwk</link>
-			<description>Amerykański rynek pracy odbił w marcu, a tempo tworzenia miejsc pracy zaskoczyło — było znacznie wyższe, niż oczekiwano.</description>
-			<guid isPermaLink="false">b9ae02e2-e819-4e6a-9104-8ed57b9415d3</guid>
-			<pubDate>Fri, 03 Apr 2026 20:24:36 GMT</pubDate>
-			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/BKYk9kpTURBXy8zNmI3OTI5M2YwNWUzZWY1ZTc4NTRiMjM1MjA2NGQ5ZC5wbmeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
