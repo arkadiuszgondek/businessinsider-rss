@@ -5,6 +5,33 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Ukraiński gigant ucieka z Polski. Wytrzymał tylko trzy lata</title>
+			<link>https://businessinsider.com.pl/finanse/ukrainski-gigant-vovk-ucieka-z-polski-jeden-z-powodow-jest-zaskakujacy/6k6x1lm</link>
+			<description>Ukraińska sieć Vovk, lider segmentu fast fashion u naszych sąsiadów, po blisko trzech latach zamyka działalność w Polsce. Na porażkę złożyła się m.in. strategia oparta głównie na ukraińskich konsumentach.</description>
+			<guid isPermaLink="false">eae15ffc-a3c9-4e9d-b05f-21c8ab1f2555</guid>
+			<pubDate>Mon, 04 May 2026 19:08:16 GMT</pubDate>
+			<category>finanse</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/tm6k9kpTURBXy9mNTkyZDhjNDgxNTU5NWRiNmY3ZTc3MmFjNjdjMWJkZS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Spotkanie Trump-Xi coraz bliżej. USA apelują do Chin w sprawie Ormuz</title>
+			<link>https://businessinsider.com.pl/wiadomosci/ciesnina-ormuz-zamknieta-bessent-wzywa-chiny-do-nacisku-na-iran/5pb882h</link>
+			<description>Sekretarz Skarbu USA Scott Bessent wezwał w poniedziałek Chiny do zintensyfikowania działań dyplomatycznych, aby przekonać Iran do otwarcia cieśniny Ormuz.</description>
+			<guid isPermaLink="false">d28574dc-ec52-47fb-8b14-3f1b10b57f4d</guid>
+			<pubDate>Mon, 04 May 2026 18:45:04 GMT</pubDate>
+			<category>wiadomosci</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/6V-k9kpTURBXy85YmQzYjg0NjFlMTgzZjJhODEwZjliODk4OTI3ZTkwZC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Emmanuel Macron ostrzega wielkie firmy. Chodzi o ceny paliw</title>
+			<link>https://businessinsider.com.pl/gospodarka/nadmierne-zyski-koncernow-paliwowych-emmanuel-macron-ostrzega/74g7xq2</link>
+			<description>Choć na razie Europa powstrzymuje się od drastycznych kroków, prezydent Francji Emmanuel Macron zapowiada, że będzie musiała zareagować, jeśli zyski producentów staną się &quot;nadmierne&quot;.</description>
+			<guid isPermaLink="false">531abb6e-d72c-4417-ba1f-cada95a0452f</guid>
+			<pubDate>Mon, 04 May 2026 18:23:49 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/pl6k9kpTURBXy9lMWIzYTVlYzNlYWQ4YjdiMTYxOWQ4NmY1ZWU1NmVkZC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>&quot;Nie ma innego wyjścia&quot;. Amerykańska linia kończy działalność</title>
 			<link>https://businessinsider.com.pl/gospodarka/koniec-amerykanskiej-linii-lotniczej-spirit-airlines-dobila-wojna-w-iranie/y2nh6ft</link>
 			<description>Po miesiącach walki o przetrwanie i fiasku negocjacji z administracją rządową linie lotnicze Spirit Airlines oficjalnie znikają z nieba.</description>
@@ -4108,15 +4135,6 @@ Uczniowie z Jarosławia laureatami I miejsca w Solve for Tomorrow</title>
 			<pubDate>Fri, 24 Apr 2026 19:55:52 GMT</pubDate>
 			<category>gospodarka</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/jczk9kpTURBXy9kMzAwZTg5ODAyYTNkMDRjMTI4MTFmOGVkZGIyZDU2ZS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Cios USA w Iran. Władze zamroziły setki milionów dolarów</title>
-			<link>https://businessinsider.com.pl/finanse/cios-usa-w-iran-wladze-w-waszyngtonie-zamrozily-setki-milionow-dolarow/d8p82lr</link>
-			<description>Waszyngton uderza w finanse Teheranu. Amerykańskie władze zamroziły 344 mln dol. w kryptowalucie, które — według nich — są powiązane z Iranem. Sekretarz skarbu Scott Bessent zapowiada dalsze kroki.</description>
-			<guid isPermaLink="false">d95037f0-442f-4ae5-b750-2079e1c31f7d</guid>
-			<pubDate>Fri, 24 Apr 2026 18:31:14 GMT</pubDate>
-			<category>finanse</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/Dj7k9kpTURBXy80M2IyM2Y3ZDgyZDdjNTFkNzNiNWVjYmY5YTVlNmVmOS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
