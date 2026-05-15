@@ -5,6 +5,24 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Największy polski bank informuje o zakłóceniach. &quot;Ważne transakcje zrób wcześniej&quot;</title>
+			<link>https://businessinsider.com.pl/finanse/wazny-komunikat-dla-klientow-banku-pko-bp-chodzi-o-dostepnosc-uslug-w-weekend/s8bnjdc</link>
+			<description>Bank PKO BP informuje w komunikacie na swojej stronie internetowej o przerwie w dostępności niektórych usług w najbliższą niedzielę. W określonych godzinach nie będzie można korzystać z aplikacji i stron internetowych banku.</description>
+			<guid isPermaLink="false">556e4644-6d6b-477b-b40f-bdf1be3ee8d5</guid>
+			<pubDate>Fri, 15 May 2026 11:11:22 GMT</pubDate>
+			<category>finanse</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/3l3k9kpTURBXy80OWI2YjQ0Mzg2NjI0YjY0MTQ1OTI5MDVhMDVmM2VhMi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Paliwa z nowymi limitami cen. Wiadomo też, co dalej z programem CPN</title>
+			<link>https://businessinsider.com.pl/gospodarka/minister-energii-obniza-limity-cen-paliw-co-dalej-z-programem-cpn/m46sr7q</link>
+			<description>Minister Energii ogłosił nowe maksymalne ceny detaliczne paliw, które będą obowiązywać od soboty 16 maja do poniedziałku 18 maja włącznie. Jednocześnie rząd zdecydował o przedłużeniu programu CPN co najmniej do końca maja.</description>
+			<guid isPermaLink="false">fc647aea-6a74-44e5-bd84-42e1c5a5390c</guid>
+			<pubDate>Fri, 15 May 2026 11:03:35 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/XAgk9kpTURBXy82OTYxM2RiNDE5ZTBhZTNjMzk0YzNmZWE2YzllODE3ZS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Znamy ceny paliw na weekend. Ministerstwo podało nowe stawki</title>
 			<link>https://businessinsider.com.pl/gospodarka/sa-nowe-maksymalne-ceny-paliw-w-polsce-tyle-zaplacimy-na-stacjach-w-weekend/wr8bskz</link>
 			<description>Wiadomo już, ile zapłacimy za paliwa podczas weekendu i w poniedziałek 18 maja. Minister energii w piątkowym obwieszczeniu podał nowe stawki maksymalne — są nieznacznie niższe niż te, które ogłoszono w czwartek.</description>
@@ -4658,24 +4676,6 @@ polskiego biznesu, kultury, nauki i polityki</title>
 			<pubDate>Tue, 05 May 2026 12:00:00 GMT</pubDate>
 			<category>poradnik-finansowy</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/3IAk9kpTURBXy8xZGYzN2E0ZjkwNTQ0YTgwNTcwYWIwMzQ0MjMxZjY4Zi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Ceny paliw pod presją. Jest na to &quot;apka&quot;</title>
-			<link>https://businessinsider.com.pl/technologie/aplikacje-do-tankowania-i-ladowania-auta-oto-co-pobrac-by-oszczedzac/9pcsx3p</link>
-			<description>Ceny paliw wciąż są pod presją, a wojna w Iranie tylko podkręca nerwowość kierowców. W tak zmiennym otoczeniu coraz bardziej liczy się kontrola nad kosztami jazdy. Z pomocą przychodzą aplikacje na smartfony, które pozwalają śledzić ceny, wydatki i planować tankowanie lub ładowanie auta — z realną korzyścią dla portfela.</description>
-			<guid isPermaLink="false">ca200537-c431-4f05-abb5-f8f9439dff9e</guid>
-			<pubDate>Tue, 05 May 2026 11:22:00 GMT</pubDate>
-			<category>technologie</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/qo_k9kpTURBXy8wMjZmN2RlNDllMTg4Y2I5MzA3NThjNzBiZDU3YWJmZS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Niemcy inwestują w Polsce. Wykupują coraz więcej mieszkań</title>
-			<link>https://businessinsider.com.pl/nieruchomosci/niemcy-inwestuja-w-polsce-wykupuja-coraz-wiecej-mieszkan/4r74bse</link>
-			<description>Jak donosi &quot;Frankfurter Rundschau&quot;, niemieccy inwestorzy, mimo niesprzyjającej atmosfery politycznej i rosnącego oporu opozycji, planują ekspansję, a nawet debiut na warszawskim parkiecie. Na takie zmiany na rynku zareagowali politycy PiS.</description>
-			<guid isPermaLink="false">0815c8c4-79ca-4ebf-8cf1-caf94bab49ef</guid>
-			<pubDate>Tue, 05 May 2026 11:11:08 GMT</pubDate>
-			<category>nieruchomosci</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/-8hk9kpTURBXy9lNTQ4YjhiMmY5NzI3MGRjMzI0YmI0ZTU0YWI1ZDgxNS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
