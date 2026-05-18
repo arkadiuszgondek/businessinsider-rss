@@ -5,13 +5,31 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Odszedłem z Google w wieku 55 lat.. Czułem presję, by  wdrażać AI i jakbym już nie pasował do firmy</title>
+			<link>https://businessinsider.com.pl/praca/google-wymusil-szybkie-przejscie-na-ai-ten-pracownik-zdecydowal-sie-odejsc/hgx1e57</link>
+			<description>Matt Lowrie odszedł z Google'a po 18 latach pracy, ponieważ odczuwał presję, by zbyt nagle przestawić się na korzystanie z AI. Miał trudności z zaufaniem tej technologii i nie czerpał przyjemności z używania jej do pisania kodu. Po odejściu z Google odkrył jednak, że AI może zwiększać produktywność.</description>
+			<guid isPermaLink="false">6e7f8473-4c3c-4d6a-a42b-4a7256085960</guid>
+			<pubDate>Mon, 18 May 2026 12:32:34 GMT</pubDate>
+			<category>praca</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/PP_k9kpTURBXy8yY2U3OGVmZWI0NjI0ZGZkY2U4ZWI5OWM2ZTFiOTljOS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>&quot;Klasówka z AI&quot; dla każdego obywatela. Pierwszy kraj podpisał umowę na ChatGPT dla wszystkich</title>
+			<link>https://businessinsider.com.pl/technologie/nowe-technologie/malta-udostepnia-chatgpt-plus-wszystkim-obywatelom-przelom-czy-ryzyko/fqxk6c6</link>
+			<description>W maju 2026 r. Malta dokonała historycznego kroku, stając się pierwszym państwem na świecie, które podpisało oficjalną umowę z OpenAI na masowe udostępnienie premium wersji ChatGPT Plus wszystkim swoim obywatelom i rezydentom. Warunkiem dostępu jest ukończenie bezpłatnego, obowiązkowego kursu &quot;AI for All&quot; przygotowanego we współpracy z Uniwersytetem Malty.</description>
+			<guid isPermaLink="false">ac44e9a5-f651-41e3-8f0b-20eee768650f</guid>
+			<pubDate>Mon, 18 May 2026 12:24:51 GMT</pubDate>
+			<category>technologie</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/AQUk9kpTURBXy9lYjJjNzQ1ZTU1YTU2ZTBjYTdjZTU0Yzg0ZmZiZmM1Ni5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Inflacja w Polsce rośnie. NBP publikuje kluczowy wskaźnik dla kredytobiorców</title>
 			<link>https://businessinsider.com.pl/gospodarka/narodowy-bank-polski-podal-dane-o-inflacji-bazowej-wskaznik-zaskakuje/6yev6sy</link>
 			<description>Narodowy Bank Polski opublikował najnowsze dane o tzw. inflacji bazowej. W tym wskaźniku, na którym w dużej mierze opiera się Rada Polityki Pieniężnej, decydując o poziomie stóp procentowych, widać gospodarcze efekty wojny w Iranie.</description>
 			<guid isPermaLink="false">c86c00ad-566e-418e-b4e0-6a4b6e91cef3</guid>
 			<pubDate>Mon, 18 May 2026 12:00:23 GMT</pubDate>
 			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/XAgk9kpTURBXy82OTYxM2RiNDE5ZTBhZTNjMzk0YzNmZWE2YzllODE3ZS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/M9Ak9kpTURBXy8wODFkOTBiMTY0OTAzZmVhOGFiYmMxNjc1N2MzNGMxNS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 		<item>
 			<title>Internauci rozczarowani decyzją Tymbarka. Zniknął kultowy &quot;symbol nadziei&quot;</title>
@@ -4134,15 +4152,6 @@
 			<pubDate>Fri, 08 May 2026 12:44:10 GMT</pubDate>
 			<category>gospodarka</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/ebDk9kpTURBXy81OTUyNTU5NGVhZDNlYTcyYTU3NzVmOWNmYjIxN2UxNi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Ceny paliw w Polsce spadają. Eksperci ostrzegają przed pułapką</title>
-			<link>https://businessinsider.com.pl/gospodarka/dobre-wiesci-dla-kierowcow-w-polsce-sa-nowe-prognozy-analitykow/w6g9vxd</link>
-			<description>Analitycy portalu e-petrol.pl przewidują obniżki na stacjach, choć zastrzegają, że sytuacja geopolityczna na Bliskim Wschodzie wciąż rzuca cień na stabilność cen energii.</description>
-			<guid isPermaLink="false">5ce46c9f-481b-4a3d-a31a-0b442939e074</guid>
-			<pubDate>Fri, 08 May 2026 12:24:48 GMT</pubDate>
-			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/RXdk9kpTURBXy85YTVjMzIyZjU1OWY4NTM1ZGUyOWYyM2IwZjkyZTBmMS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
