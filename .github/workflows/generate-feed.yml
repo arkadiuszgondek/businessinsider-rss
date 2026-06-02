@@ -2,10 +2,9 @@ name: Generate RSS feed
 
 on:
   schedule:
-    # Pon–pt, co 15 min 06:00–10:00 czasu PL
-    # Obecnie: PL = UTC+1, więc 05:00–09:00 UTC
-    - cron: '*/15 5-8 * * 1-5'  # 06:00–09:45 PL (zimą)
-    - cron: '0 9 * * 1-5'       # 10:00 PL (zimą)
+    # Pon–pt, co 15 min od 05:00 do 10:00 czasu polskiego (CEST)
+    - cron: '*/15 3-7 * * 1-5'  # 05:00–09:45 CEST
+    - cron: '0 8 * * 1-5'       # 10:00 CEST
         # Codziennie 14:00 i 18:00 PL (zimą)
     - cron: '0 13 * * *'   # 14:00 PL
     - cron: '0 17 * * *'   # 18:00 PL
