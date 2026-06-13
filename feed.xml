@@ -5,9 +5,36 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Donald Trump o umowie z Iranem. Podał datę</title>
+			<link>https://businessinsider.com.pl/wiadomosci/kiedy-porozumienie-iran-usa-donald-trump-podal-date/h5f0sx9</link>
+			<description>Donald Trump ogłosił, że podpisanie umowy z Iranem planowane jest na niedzielę, a zaraz potem cieśnina Ormuz &quot;będzie otwarta dla wszystkich&quot;. Chwilę potem oświadczenie wydał Korpus Strażników Rewolucji Islamskiej.</description>
+			<guid isPermaLink="false">2ec95509-dfba-4217-b12e-e64738531980</guid>
+			<pubDate>Sat, 13 Jun 2026 17:11:29 GMT</pubDate>
+			<category>wiadomosci</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/c9pk9kpTURBXy9lNmIxZTViMmJkZGE3NDFlMmI2ZDc3NTRmYjUzOGExNi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Nowy wyścig atomowy w Azji</title>
+			<link>https://businessinsider.com.pl/technologie/nowe-technologie/wyscig-nuklearny-w-azji-nabiera-tempa-indie-i-chiny-zwiekszaja-arsenaly/svgdjt0</link>
+			<description>Według najnowszego raportu Stockholm International Peace Research Institute (SIPRI) — renomowanego szwedzkiego instytutu zajmującego się badaniami nad pokojem i konfliktami — Indie po raz pierwszy w czasie pokoju rozmieszczają operacyjnie 12 głowic nuklearnych. Jeszcze rok wcześniej żadna z nich nie była w stanie gotowości bojowej. To nie jest drobna zmiana w statystykach. To symboliczny przełom w indyjskiej doktrynie nuklearnej, która od dekad opierała się na zasadzie &quot;no first use&quot;, czyli zobowiązaniu, że broń jądrowa zostanie użyta tylko w odpowiedzi na atak, a nie jako pierwsza.</description>
+			<guid isPermaLink="false">2533025f-9e96-4476-8984-36e3153851b0</guid>
+			<pubDate>Sat, 13 Jun 2026 15:50:58 GMT</pubDate>
+			<category>technologie</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/Egtk9kpTURBXy8zZmJmN2NiMjI2MjRhZWIxZjUxZTY3NjUwNDczOWM0Ny5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>OpenAI rozważa drastyczne obniżki cen ChatGPT. Czy to początek wojny cenowej z Anthropic?</title>
+			<link>https://businessinsider.com.pl/technologie/nowe-technologie/openai-planuje-obnizki-cen-tokenow-wojna-cenowa-z-anthropic-nabiera-tempa/1p2bv1h</link>
+			<description>&quot;Wall Street Journal&quot; przekazał informacje, że OpenAI, firma stojąca za popularnym chatbotem ChatGPT, analizuje możliwość znaczących obniżek cen za korzystanie ze swoich modeli sztucznej inteligencji. Decyzja ta ma związek z rosnącą konkurencją na rynku zaawansowanych systemów AI, szczególnie ze strony firmy Anthropic.</description>
+			<guid isPermaLink="false">480982e1-d5f0-4a9d-8002-aa6f12b1642f</guid>
+			<pubDate>Sat, 13 Jun 2026 15:17:05 GMT</pubDate>
+			<category>technologie</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/T2Ck9kpTURBXy9mZGMxZGFhMGRiNzAwMWZlZjI5YmQ0NjE3YzNiNTg3My5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Szwajcaria głosuje nad limitem populacji. Przedsiębiorcy ostrzegają</title>
 			<link>https://businessinsider.com.pl/gospodarka/niedzielne-referendum-moze-zmienic-szwajcarie-eksperci-bija-na-alarm/6f96xhk</link>
-			<description>Szwajcaria głosuje w niedzielę nad wprowadzeniem limitu populacji do 10 mln. Przedsiębiorcy ostrzegają przed negatywnym wpływem takiego rozwiązania na gospodarkę.</description>
+			<description>Szwajcaria głosuje w niedzielę w referendum nad wprowadzeniem limitu populacji do 10 mln. Przedsiębiorcy ostrzegają przed negatywnym wpływem takiego rozwiązania na gospodarkę.</description>
 			<guid isPermaLink="false">13b54190-659a-4084-8eb5-5097a0cb388e</guid>
 			<pubDate>Sat, 13 Jun 2026 14:55:19 GMT</pubDate>
 			<category>gospodarka</category>
@@ -3449,51 +3476,6 @@
 			<pubDate>Wed, 03 Jun 2026 18:31:39 GMT</pubDate>
 			<category>praca</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/ljdk9kpTURBXy9jODkwNDVmOWNmMzhjMjYyNzA2YWIyMDNjMjMzYzM4NC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Niemcy kupują firmę polskiego miliardera. &quot;To koniec pewnej epoki&quot;</title>
-			<link>https://businessinsider.com.pl/biznes/niemcy-przejmuja-jedna-z-firm-sebastiana-kulczyka-koniec-pewnej-epoki/xrrs5df</link>
-			<description>Grupa chemiczna Qemetica sprzedaje swój solny biznes w Janikowie koło Poznania. Nowym właścicielem jest niemiecka firma. Znamy szczegóły i kwotę sprzedaży.</description>
-			<guid isPermaLink="false">d532b3d4-ac9c-4eac-83c8-5979510cdda1</guid>
-			<pubDate>Wed, 03 Jun 2026 18:10:07 GMT</pubDate>
-			<category>biznes</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/ms8k9kpTURBXy9jYTIwNGFjMTM3MTE3OWM4YTk0ZjYzNDVkYzg1NjZkOC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Obstawił wynik wyborów i wygrał fortunę. Wyrok w głośnej sprawie bukmachera</title>
-			<link>https://businessinsider.com.pl/prawo/bukmacher-odmowil-wyplaty-wygranej-wyrok-w-glosnej-sprawie-po-siedmiu-latach/mc7tl50</link>
-			<description>Kiedy w październiku 2018 r. trwały wybory samorządowe w Warszawie, Łukasz Pawłowski, szef Ogólnopolskiej Grupy Badawczej (OGB) trafnie obstawił związany z nimi zakład bukmacherski. Firma jednak odmówiła wypłaty wysokiej wygranej. Teraz, na mocy decyzji sądu, będzie musiała wypłacić dużo więcej — informuje &quot;Rzeczpospolita&quot;.</description>
-			<guid isPermaLink="false">d22a5a8e-880c-4a54-96a8-69b5a8eac6ca</guid>
-			<pubDate>Wed, 03 Jun 2026 16:36:59 GMT</pubDate>
-			<category>prawo</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/5bck9kpTURBXy84YTlmOTYwNDc1MjVlYzVmZjM3ZGY5OWNmYmMzNTk0Ny5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Majątek Zbigniewa Ziobry. Dom, działki i spore zmiany na koncie</title>
-			<link>https://businessinsider.com.pl/finanse/oswiadczenie-majatkowe-zbigniewa-ziobry-nowa-pozyczka-i-mniejsze-oszczednosci/clceg0d</link>
-			<description>Dom, kilka działek i oszczędności znacznie mniejsze niż rok temu — oto majątek Zbigniewa Ziobry. Ponadto w najnowszym oświadczeniu majątkowym były minister sprawiedliwości ujawnia, że jest winien swojej fundacji — finansowanej m.in. przez prezesa Zondacrypto — 85 tys. zł.</description>
-			<guid isPermaLink="false">fe47fbe6-03a2-45d9-a157-62ef0ab4c414</guid>
-			<pubDate>Wed, 03 Jun 2026 16:05:46 GMT</pubDate>
-			<category>finanse</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/QX4k9kpTURBXy8zM2JiN2I5YjcxMzFkZTFhYWE4ZDg3Y2FmNjgyYzBlOC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Mapa wynagrodzeń w Polsce. 12 miejscowości się wyróżnia</title>
-			<link>https://businessinsider.com.pl/gospodarka/polska-mapa-wynagrodzen-tyle-zarabiaja-mieszkancy-jerzmanowej-i-czajkowa-mapa/763e2bj</link>
-			<description>Różnica wynagrodzenia przeciętnego mieszkańca gminy, w której zarabia się najlepiej od tej, gdzie zarobki są najniższe, wynosi aż 6 tys. zł brutto. Bieguny wynagrodzeń w Polsce to Jerzmanowa i Czajków. Nowe dane przynoszą szereg równie ciekawych informacji.</description>
-			<guid isPermaLink="false">4ee79309-ca68-4370-9f13-85dcf4924733</guid>
-			<pubDate>Wed, 03 Jun 2026 15:27:13 GMT</pubDate>
-			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/BoFk9kpTURBXy9mZTk4NDgzZjRkMDdjNTZmZGYwZDgxNDRlNDUwZTgwMy5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Duża zmiana na rynku truskawek w Polsce. Ekspert wyjaśnia różnicę w cenach</title>
-			<link>https://businessinsider.com.pl/finanse/handel/ceny-truskawek-w-broniszach-mocno-spadly-ekspert-wyjasnia-efekt-wyprzedazy/5n8rm81</link>
-			<description>Na rynku truskawek w Polsce panuje ostatnio spore zamieszanie, m.in. ze względu na zmienne warunki pogodowe i nieregularną podaż, która sprawia, że ceny owoców zmieniają się niemal z dnia na dzień. W środę mocno spadły, jednak jest to raczej tymczasowa sytuacja.</description>
-			<guid isPermaLink="false">784f836d-1d22-4fda-9120-3c90caad73ff</guid>
-			<pubDate>Wed, 03 Jun 2026 15:08:55 GMT</pubDate>
-			<category>finanse</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/mFBk9kpTURBXy83ZGViODdkZDA4Mzg0NzM2YThlODVkNjJkM2FmN2UwOS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
