@@ -5,6 +5,15 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Największy kredyt w historii unijnego banku. Polski rząd miał kupić udziały w tej firmie</title>
+			<link>https://businessinsider.com.pl/biznes/lotnictwo-i-kosmos-zasilone-miliardami-euro-ebi-wspiera-rozwoj-airbusa/vzmdt81</link>
+			<description>Europejski Bank Inwestycyjny (EBI) poinformował w poniedziałek o przyznaniu europejskiemu koncernowi Airbus największej w historii banku pożyczki korporacyjnej w wysokości 3 mld euro.</description>
+			<guid isPermaLink="false">e38bc59f-b68f-43a3-bdd9-49a898f31c29</guid>
+			<pubDate>Mon, 29 Jun 2026 19:27:31 GMT</pubDate>
+			<category>biznes</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/vjzk9kpTURBXy85M2Q5YWIzOTQyMTE1MDU2YjY1YTVkZTEzYmQ4NGZmMi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Ostrzegają przed nową metodą oszustów. Na &quot;nadpłatę&quot;</title>
 			<link>https://businessinsider.com.pl/finanse/oszusci-maja-nowa-metode-pisza-o-nadplacie/zkht0s3</link>
 			<description>Zespół Reagowania na Incydenty Bezpieczeństwa Komputerowego polskiego sektora finansowego (CSIRT KNF) apeluje, by uważać na fałszywe maile. Oszuści podszywają się pod fiskusa i piszą o rzekomej nadpłacie podatku dochodowego.</description>
@@ -3450,15 +3459,6 @@
 			<pubDate>Fri, 19 Jun 2026 20:33:22 GMT</pubDate>
 			<category>biznes</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/mY0k9kpTURBXy80OGU2MWNkYWQ3ZWI5MDc5NTMwMGQ5NTQ3YmE5M2I3Zi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Maciej Lasek żegna się nie tylko z CPK. Będzie wiceministrem do końca czerwca</title>
-			<link>https://businessinsider.com.pl/wiadomosci/maciej-lasek-zegna-sie-nie-tylko-z-cpk-zmiany-w-resorcie-infrastruktury/cx5p38x</link>
-			<description>Maciej Lasek, odwołany z funkcji pełnomocnika rządu ds. PCK, z końcem czerwca przestanie być też wiceministrem infrastruktury — wynika z piątkowej wypowiedzi szefa resortu infrastruktury Dariusza Klimczaka.</description>
-			<guid isPermaLink="false">ee5a2462-4227-4019-84b7-75128c702684</guid>
-			<pubDate>Fri, 19 Jun 2026 19:15:23 GMT</pubDate>
-			<category>wiadomosci</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/W5wk9kpTURBXy8zNGI3OTNhY2ExMTliNDEzMTZhNTE2N2Q2NGJiZmM2My5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
