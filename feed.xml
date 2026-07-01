@@ -5,6 +5,24 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Miliarderzy znikają z list najbogatszych Polaków. Przodują dwie branże</title>
+			<link>https://businessinsider.com.pl/biznes/duze-zmiany-w-rankingu-najbogatszych-polakow-wprost-zniknely-24-nazwiska/tt6qvc4</link>
+			<description>Najnowsza lista najbogatszych tygodnika &quot;Wprost&quot; pokazuje z jednej strony prawdziwy wysyp nowych polskich miliarderów, z drugiej — z zestawienia wynika, że wielu Polaków znika z rankingu. W tym roku — jak wskazuje tygodnik — w zestawieniu nie ma aż 24 nazwisk z poprzedniej edycji. Większość z nich reprezentuje branżę budowlaną lub przemysł.</description>
+			<guid isPermaLink="false">4ef1cfd1-16ef-48f1-8e3e-abd862cb4403</guid>
+			<pubDate>Wed, 01 Jul 2026 10:50:29 GMT</pubDate>
+			<category>biznes</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/FCIk9kpTURBXy8wNWFlNWJkYTU1OTJkZjZlY2YzZDAyMzQ4OWJiY2M2NC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Po krótkim ochłodzeniu wróci fala upałów. Temperatury ponownie zbliżą się do 40 stopni</title>
+			<link>https://businessinsider.com.pl/wiadomosci/upaly-wracaja-do-polski-prognozy-zapowiadaja-nawet-40-stopni-i-burze/1rqh763</link>
+			<description>Po kilku dniach wyraźnie chłodniejszej pogody Polska może ponownie znaleźć się pod wpływem gorącego powietrza z południa Europy. Najnowsze prognozy wskazują, że już w drugim tygodniu lipca do kraju może dotrzeć kolejna fala upałów, a miejscami termometry ponownie pokażą 35-40 st. C.</description>
+			<guid isPermaLink="false">8fb7c712-5cdd-440f-858d-ab4e4a7ba176</guid>
+			<pubDate>Wed, 01 Jul 2026 10:48:21 GMT</pubDate>
+			<category>wiadomosci</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/a23k9kpTURBXy8wZWI5NjY0ZTM5ZWFmMWEwMDNlYTNkNjAyMTFkZDU5OS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Będzie unijne wsparcie dla polskich rolników. Dostaną więcej niż Niemcy i Włosi</title>
 			<link>https://businessinsider.com.pl/gospodarka/unijne-wsparcie-dla-rolnikow-polacy-dostana-niemal-najwiecej-srodkow/shfwkgx</link>
 			<description>Polska otrzyma 66 mln euro wsparcia z unijnego pakietu przygotowanego dla rolników, którzy odczuwają skutki drożejących nawozów. Kwota ta plasuje nasz kraj na drugim miejscu wśród wszystkich państw członkowskich.</description>
@@ -3837,15 +3855,6 @@
 			<pubDate>Sun, 21 Jun 2026 11:24:12 GMT</pubDate>
 			<category>gospodarka</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/cTKk9kpTURBXy9mNjVmOWNmN2ExMTNiOGE4NGY5Y2Y1NmJkMzMzZjNjZS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Handel daje pracę setkom tysięcy Polaków. W marketach rządzą kobiety</title>
-			<link>https://businessinsider.com.pl/praca/praca-w-markecie-biedronka-lidl-kaufland-i-aldi-ujawnily-dane/lkpnnvk</link>
-			<description>Po kilkadziesiąt tysięcy osób pracuje w największych sieciach marketów w Polsce. Na przykład w Biedronce średni wiek pracownika to niecałe 40 lat. Są tacy, którzy w jednym miejscu są zatrudnieni ponad 20 lat.</description>
-			<guid isPermaLink="false">ecefe3b8-763d-49b8-88cf-9caa64c21c1d</guid>
-			<pubDate>Sun, 21 Jun 2026 10:59:17 GMT</pubDate>
-			<category>praca</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/G_Rk9kpTURBXy8wYzI4N2MxYTk1ZDVjOWJkNjZjMDIyZDQ5MjE1M2E0Ni5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
