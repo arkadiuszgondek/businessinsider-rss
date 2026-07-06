@@ -5,6 +5,24 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Tyle NFZ wydał w rok. Najwięcej na leczenie szpitalne</title>
+			<link>https://businessinsider.com.pl/finanse/nfz-podsumowal-rok-wplywy-ze-skladek-koszty-i-przychody/qcesjlm</link>
+			<description>Wydatki NFZ przekroczyły w ubiegły roku 217 mld zł — wynika z przyjętego rocznego sprawozdania z wykonania planu finansowego Funduszu. Największą pozycją w wydatkach było leczenie szpitalne</description>
+			<guid isPermaLink="false">96f993a3-83df-4481-a816-7c17e6f4006c</guid>
+			<pubDate>Mon, 06 Jul 2026 19:43:32 GMT</pubDate>
+			<category>finanse</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/TiZk9kpTURBXy82ODdiYmE0MjYyZGM2NmUyNWJkZjlmMGQzMzlkNTk3ZC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Obowiązkowe systemy w nowych autach. Zmiany właśnie wchodzą w życie</title>
+			<link>https://businessinsider.com.pl/gospodarka/przepisy/nowe-unijne-wytyczne-obowiazkowe-systemy-w-samochodach/wtjr43s</link>
+			<description>We wtorek zaczną obowiązywać nowe unijne regulacje dotyczące obowiązkowego wyposażenia aut. Chodzi m.in. o systemy rozpoznające zmęczenie kierowcy czy wspomagające awaryjne hamowanie.</description>
+			<guid isPermaLink="false">c93361a3-717a-496a-b697-9e2008fd2870</guid>
+			<pubDate>Mon, 06 Jul 2026 19:42:40 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/Xp6k9kpTURBXy8xMGJiM2M2NzhmNWExMzVjZDE4MDA2Y2M1ZGVmZGMwZS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Kolejna zuchwała kradzież we Francji. Straty sięgają 4 mln euro</title>
 			<link>https://businessinsider.com.pl/wiadomosci/kradziez-bizuterii-we-francji-zlodzieje-weszli-do-muzeum-laliquea/12q51pq</link>
 			<description>Złodzieje ukradli z francuskiego muzeum biżuterię o wartości około 4 mln euro. &quot;Na miejscu jako pierwsza pojawiła się sprzątaczka&quot; — pisze agencja AFP.</description>
@@ -3171,15 +3189,6 @@
 			<pubDate>Fri, 26 Jun 2026 20:26:06 GMT</pubDate>
 			<category>nieruchomosci</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/lPck9kpTURBXy9lMzZkNjVkYTJiNTNjYmZiOTQ4NDY3MjEyZmZkZmQxOC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Czy piloci samolotu pasażerskiego są bogaci? Na takie zarobki mogą liczyć</title>
-			<link>https://businessinsider.com.pl/praca/czy-piloci-samolotu-pasazerskiego-sa-bogaci-na-takie-zarobki-moga-liczyc/3043md5</link>
-			<description>Zarobki pilotów to temat, który budzi duże zainteresowanie. Nie tylko wśród osób planujących karierę w lotnictwie. Wynagrodzenia w tej branży są bardzo zróżnicowane i zależą od wielu czynników.</description>
-			<guid isPermaLink="false">230c1d92-1d4e-44ae-904c-8bcdd77747be</guid>
-			<pubDate>Fri, 26 Jun 2026 19:18:23 GMT</pubDate>
-			<category>praca</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/I10k9kqTURBXy9mMzNmZGNhYTk3MzU0ZTYzNjE3MzRhNmQ1ODgxMmUxNC5qcGVnkZMCzQSwAN4AAaEwAQ" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
