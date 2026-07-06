@@ -5,6 +5,15 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Amerykańska sieć znika z Polski po 26 latach. Plan naprawczy nie wypalił</title>
+			<link>https://businessinsider.com.pl/biznes/koniec-claires-w-polsce-sadowe-postanowienie-uprawomocnilo-sie/ggdx3k9</link>
+			<description>Amerykańska sieć Claire's oferująca dodatki i akcesoria dla nastolatek i młodych kobiet znika z polskiego rynku. Sąd Rejonowy Poznań–Stare Miasto potwierdził, że wyrok w sprawie bankructwa uprawomocnił się. Upadek sieci nastąpił, mimo planów wprowadzenia szeroko zakrojonego planu naprawczego.</description>
+			<guid isPermaLink="false">1b959744-1c28-4980-857a-4d9e9de709ea</guid>
+			<pubDate>Mon, 06 Jul 2026 11:54:56 GMT</pubDate>
+			<category>biznes</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/6ROk9kpTURBXy9kMDRkMGM3OTg5ZGQ1OWE4YzJmY2RjODRlZGYxZDc2YS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Zapłacili za mieszkania, zostali z niczym. &quot;Straciliśmy całe oszczędności życia&quot;</title>
 			<link>https://businessinsider.com.pl/finanse/kupili-mieszkania-w-gdyni-ale-budowa-stanela-zostalismy-z-niczym/rez75bc</link>
 			<description>— Zapłaciliśmy za to mieszkanie i straciliśmy całe oszczędności życia — mówią w rozmowie z dziennikarzami &quot;Interwencji&quot; Polsat News ludzie, którzy zakupili kilka lat temu mieszkania w Gdyni od dewelopera. Inwestor popadł w długi, a niedoszli mieszkańcy bloku zostali z niczym.</description>
@@ -230,9 +239,9 @@
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/UEwk9kpTURBXy8xMGFjMDY4YjJlNWRlMzUwMDllYTZjOWNlZWM5ZWY3NS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 		<item>
-			<title>&quot;Dwa telefony i obniżyłem ratę kredytu o 740 zł&quot;. Tak można zredukować oprocentowanie</title>
+			<title>&quot;Dwa telefony i obniżyłem ratę kredytu o 740 zł&quot;. Pan Dariusz zagrał z bankiem w jego grę</title>
 			<link>https://businessinsider.com.pl/poradnik-finansowy/kredyty/kredyt-hipoteczny-w-mbanku-tanszy-bez-wychodzenia-z-domu-klient-obnizyl-rate-o-740-zl/r0tl1yq</link>
-			<description>Zmniejszenie oprocentowania i raty kredytu mieszkaniowego jest możliwe, nawet jeśli dotyczy to umowy o okresowo stałej stopie. Nasz czytelnik bez wychodzenia z domu zawarł z bankiem aneks, dzięki któremu obniżył ratę o 740 zł miesięcznie.</description>
+			<description>Nasz czytelnik bez wychodzenia z domu zawarł z bankiem aneks, dzięki któremu obniżył ratę o 740 zł miesięcznie. A zaznaczmy, że to bank jako pierwszy wyszedł z inicjatywą obniżki. Opłacało się jednak nie przystawać na propozycję.</description>
 			<guid isPermaLink="false">6983e76a-37f3-4e36-8cdb-af23396911ee</guid>
 			<pubDate>Mon, 06 Jul 2026 04:00:00 GMT</pubDate>
 			<category>poradnik-finansowy</category>
@@ -3198,15 +3207,6 @@
 			<pubDate>Fri, 26 Jun 2026 12:06:57 GMT</pubDate>
 			<category>gospodarka</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/cGtk9kpTURBXy84ZmY1Y2MyYTY1NmZlYWQxYzRmNzk1ZmQyNzdkZTM4Yy5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Biznes i Pieniądze: patologia w szpitalach, szczyt bez Zełenskiego i wielki sojusz miliarderów [PODCAST]</title>
-			<link>https://businessinsider.com.pl/gospodarka/biznes-i-pieniadze-afera-w-szpitalach-blad-ukrainy-brzoska-i-solowow-lacza-sily/g4xmb8n</link>
-			<description>Czy polska ochrona zdrowia na dobre wymknęła się spod kontroli? W nowym odcinku podcastu Biznes i Pieniądze Bartek Godusławski i Grzegorz Kowalczyk rozmawiają o patologiach w systemie ochrony zdrowia: kontraktach lekarzy, kolejkach do leczenia i finansowaniu NFZ. Do tego analizują nieobecność Wołodymyra Zełenskiego na konferencji o odbudowie Ukrainy oraz nową inicjatywę polskich miliarderów: Michała Sołowowa i Rafała Brzoski.</description>
-			<guid isPermaLink="false">f2b74f31-6a5a-43ef-ba8f-35b01265f14b</guid>
-			<pubDate>Fri, 26 Jun 2026 12:02:50 GMT</pubDate>
-			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/KXtk9kpTURBXy9jYmJlMDJkY2U2NjY2Mjc2OGUzNzczNDE0ZGY5MTVkMy5wbmeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
