@@ -5,6 +5,33 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Orlen drwi i donosi na Obajtka. Chodzi o wtargnięcie do firmy</title>
+			<link>https://businessinsider.com.pl/wiadomosci/daniel-obajtek-w-centrum-afery-orlen-sklada-zawiadomienie-do-prokuratury/6s73pf1</link>
+			<description>Orlen złożył zawiadomienie do prokuratury w sprawie wtargnięcia na teren firmy przez Daniela Obajtka.</description>
+			<guid isPermaLink="false">ca303103-29e6-4c10-ae8d-fbfb6e371654</guid>
+			<pubDate>Tue, 14 Jul 2026 09:41:20 GMT</pubDate>
+			<category>wiadomosci</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/rTmk9kpTURBXy82ZjU4Mjk1NDBmNmQwMjcwNDM3ZjQ3MzY3Y2ExOThiOS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Stanowcze stanowisko Iranu w sprawie eksportu ropy. Tak odpowiadają na działania USA</title>
+			<link>https://businessinsider.com.pl/gospodarka/iran-ma-zamiar-nadal-eksportowac-rope-nie-zwazaja-na-sankcje-usa/51v2b53</link>
+			<description>Minister ds. ropy naftowej Iranu zapewnił, że sprzedaż surowca za granicę nie zostanie przerwana mimo zaostrzenia amerykańskiej polityki wobec Teheranu. Władze w Iranie oskarżają Waszyngton o złamanie wcześniejszych ustaleń.</description>
+			<guid isPermaLink="false">d40c6b6b-393e-42c9-b2d2-ede34dbfaab5</guid>
+			<pubDate>Tue, 14 Jul 2026 09:29:21 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/4ibk9kpTURBXy9lOTY2NTkzNjI5ODA4ZDdiNDEwNDYyZjc1MDNhMjQ5My5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Zmiany w legitymacji emeryta-rencisty weszły w życie. &quot;Nowe zabezpieczenia&quot;</title>
+			<link>https://businessinsider.com.pl/praca/emerytury/nowa-legitymacja-emeryta-rencisty-zmiany-takze-w-mobywatelu/zyqjgzy</link>
+			<description>Zakład Ubezpieczeń Społecznych (ZUS) wprowadził zmiany w wyglądzie oraz zabezpieczeniach legitymacji emeryta-rencisty. Modyfikacje objęły dwie formy dokumentu — klasyczną kartę plastikową oraz jej cyfrowy odpowiednik dostępny w aplikacji mObywatel. Emeryci i renciści nie muszą nic robić, by zachować swoje uprawnienia.</description>
+			<guid isPermaLink="false">88395c25-f2ec-452d-bd2f-330ca5cd3505</guid>
+			<pubDate>Tue, 14 Jul 2026 09:27:50 GMT</pubDate>
+			<category>praca</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/Fd9k9kpTURBXy8xZDlhNWY3YzVlN2ViYTJhOGQ0ODVlNWM1ODBkY2JiYi5wbmeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Pakiet osłonowy na paliwa może powrócić. Minister wskazuje konkretny warunek</title>
 			<link>https://businessinsider.com.pl/gospodarka/mechanizm-oslonowy-na-rynku-paliw-powroci-minister-ujawnil-warunek/8lvn3py</link>
 			<description>Minister energii Miłosz Motyka zasygnalizował gotowość rządu do ponownego wprowadzenia mechanizmów osłonowych na rynku paliw. Warunkiem miałoby być jednak poważne pogorszenie sytuacji geopolitycznej na Bliskim Wschodzie. Motyka podkreślił, że priorytetem pozostaje osiągnięcie możliwie najniższych cen w warunkach wolnorynkowych.</description>
@@ -2901,15 +2928,6 @@
 			<pubDate>Sat, 04 Jul 2026 09:58:42 GMT</pubDate>
 			<category>prawo</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/2uQk9kpTURBXy8zODM4YjNiY2NkNDgyYzFkM2M0N2VmM2UyOTk3MjljNC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>W jednym z tych miejsc może powstać druga elektrownia jądrowa. Donald Tusk: precyzyjne kryteria</title>
-			<link>https://businessinsider.com.pl/gospodarka/tutaj-moze-powstac-druga-elektrownia-jadrowa-precyzyjne-kryteria/pbg6lnx</link>
-			<description>Premier Donald Tusk zapowiedział, że decyzję o lokalizacji drugiej polskiej elektrowni jądrowej podejmą specjaliści na podstawie szczegółowych analiz. Ocenił, że zarówno Konin, jak i Bełchatów są dobrymi lokalizacjami.</description>
-			<guid isPermaLink="false">e5533d43-e2b6-41ee-b226-5269a95858c4</guid>
-			<pubDate>Sat, 04 Jul 2026 09:30:29 GMT</pubDate>
-			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/AWMk9kpTURBXy80YTcyMmIzNDkyYWVjODIyMjFiYmJkZWE5YjNjMDlmZS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
