@@ -5,9 +5,54 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
-			<title>Polska turystyka na szczycie koniunktury. Nowe badanie GUS</title>
+			<title>Przejęcie właściciela TVN. Jest decyzja KE</title>
+			<link>https://businessinsider.com.pl/biznes/przejecie-wlasciciela-tvn-jest-decyzja-ke/6hmdh02</link>
+			<description>Komisja Europejska zgodziła się warunkowo na przejęcie amerykańskiego przedsiębiorstwa mediowego Warner Bros. Discovery, właściciela m.in. TVN, przez koncern Paramount Skydance.</description>
+			<guid isPermaLink="false">31938b85-17b7-42c2-9c99-a295e59559b1</guid>
+			<pubDate>Wed, 22 Jul 2026 17:39:27 GMT</pubDate>
+			<category>biznes</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/XAgk9kpTURBXy82OTYxM2RiNDE5ZTBhZTNjMzk0YzNmZWE2YzllODE3ZS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Niemiecki gigant zwiększa skalę zwolnień. O 5000 etatów</title>
+			<link>https://businessinsider.com.pl/technologie/motoryzacja/zwolnienia-grupowe-u-niemieckiego-giganta-dodatkowe-5000-osob-straci-prace/814nqvc</link>
+			<description>Porsche, jedna z najbardziej dochodowych spółek wchodzących w skład Grupy Volkswagen, planuje kolejne 5000 zwolnień — donoszą niemieckie media.</description>
+			<guid isPermaLink="false">ab74c0ed-6899-4ead-b7bf-3603842726fb</guid>
+			<pubDate>Wed, 22 Jul 2026 17:29:08 GMT</pubDate>
+			<category>technologie</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/8iWk9kqTURBXy82ZTVmMjk3OWNmMWU2NzZmZGVhMzQxNTU2YTNmZGI2MC5qcGVnkZMCzQSwAN4AAaEwAQ" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Rosja łata braki paliwa w Moskwie. Pomaga Aleksaner Łukaszenko</title>
+			<link>https://businessinsider.com.pl/gospodarka/kryzys-paliwowy-w-moskwie-aleksander-lukaszenko-ratuje-wladimira-putina/sxne816</link>
+			<description>Władze rosyjskie kierują paliwo z Syberii i zwiększają import z Białorusi, aby zapobiec niedoborom w stolicy kraju.</description>
+			<guid isPermaLink="false">bdf38d15-467c-4906-af3e-5a127b0d8125</guid>
+			<pubDate>Wed, 22 Jul 2026 16:03:11 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/hOyk9kpTURBXy8wOGRkMjZmOTY5OTU4MzVlYzJkMDc1YTdjMjIzNWM5OC5wbmeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Podwyżki na stacjach. Benzyna 95 najdroższa od 2022 r.</title>
+			<link>https://businessinsider.com.pl/wiadomosci/szok-na-stacjach-paliw-takich-cen-nie-bylo-o-2022-r/408klyh</link>
+			<description>Benzyna 95 podrożała o 30 groszy i kosztuje średnio 7,29 zł/l. &quot;Z tej zwyżkowej tendencji wyłamał się jedynie autogaz&quot; - oceniają eksperci z e-petrol.pl. Najszybsze podwyżki odnotowano w przypadku oleju napędowego.</description>
+			<guid isPermaLink="false">449736b2-a83d-4e30-a658-c43b614c91ba</guid>
+			<pubDate>Wed, 22 Jul 2026 15:44:18 GMT</pubDate>
+			<category>wiadomosci</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/kcNk9kpTURBXy85OWM5ZDhmNDAyNzUwN2RiNGU0ODdkMzU5NzlhNTRlYS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>PIP podaje liczbę skarg po dwóch tygodniach reformy. &quot;Gigantyczny wzrost&quot;</title>
+			<link>https://businessinsider.com.pl/prawo/praca/panstwowa-inspekcja-pracy-zalala-fala-skarg-gigantyczny-wzrost/gmx6dpp</link>
+			<description>Nowe uprawnienia Państwowej Inspekcji Pracy uruchomiły falę zgłoszeń. — Od 8 lipca do wczoraj (wtorku 21 lipca — red.) mamy około 250 skarg, które dotyczą stricte nieprawidłowości w zakresie zastępowania umów o pracę umowami cywilnoprawnymi — ujawniła w &quot;Onet Rano Finansowo&quot; Urszula Langer.</description>
+			<guid isPermaLink="false">e10bc635-257a-474b-bfb2-877697738273</guid>
+			<pubDate>Wed, 22 Jul 2026 15:00:23 GMT</pubDate>
+			<category>prawo</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/Ba-k9kpTURBXy9mZDIyYWRiYjVmZjA2ZTE2NzM0N2E3ZjkwNGZiNTI5YS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Polska turystyka na szczycie koniunktury. I nie tylko ona. Nowe badanie GUS</title>
 			<link>https://businessinsider.com.pl/gospodarka/wskazniki-koniunktury-w-polsce-zaskakuja-turystyka-i-finanse-liderami-wzrostu/60czhqk</link>
-			<description>Przemysł, budownictwo, transport. Te filary polskiej gospodarki wciąż sygnalizują dekoniunkturę. Ale to w tych branżach nie nowina, a w lipcu dało się zauważyć poprawę. Zdecydowanie pozytywne trendy obowiązują w finansach i turystyce. W branży wypoczynkowej zapanował wręcz rekordowy entuzjazm.</description>
+			<description>Przemysł, budownictwo, transport. Te filary zatrudnienia w polskiej gospodarce wciąż sygnalizują dekoniunkturę. Ale to w tych branżach nie nowina, a w lipcu dało się jednak zauważyć poprawę. Zdecydowanie pozytywne trendy obowiązują w finansach i turystyce. W branży wypoczynkowej zapanował wręcz rekordowy entuzjazm.</description>
 			<guid isPermaLink="false">94c6be41-33c8-4e3a-aa81-dbfa2aac8aab</guid>
 			<pubDate>Wed, 22 Jul 2026 14:55:59 GMT</pubDate>
 			<category>gospodarka</category>
@@ -61,7 +106,7 @@
 		<item>
 			<title>Polacy ocenili gospodarkę i własne finanse. Jedna rzecz szczególnie nas niepokoi</title>
 			<link>https://businessinsider.com.pl/gospodarka/nastroje-polakow-w-lipcu-coraz-gorsze-obawy-o-bezrobocie-i-gospodarke/gywb87n</link>
-			<description>Kompleksowe badanie nastrojów Polaków pokazało, że przyszłość widzimy w ciemniejszych barwach niż miesiąc wcześniej. Coraz bardziej niepokoi nas bezrobocie.</description>
+			<description>Kompleksowe badanie nastrojów Polaków pokazało, że przyszłość widzimy w ciemniejszych barwach niż miesiąc wcześniej. Jednocześnie jednak wzrosła nasza skłonność do zakupów. Sen z powiek spędza nam jednak to, czy utrzymamy pracę.</description>
 			<guid isPermaLink="false">a3e7021f-b501-4aa3-baa9-dada397e3131</guid>
 			<pubDate>Wed, 22 Jul 2026 12:28:39 GMT</pubDate>
 			<category>gospodarka</category>
@@ -329,7 +374,7 @@
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/s1Ik9kpTURBXy84ZThhYTdhMjkwN2ZjYWM4MjQzMjEyMjM5OTcwY2ZiNi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 		<item>
-			<title>Ceny w Polsce i Europie. Co jest u nas najtańsze, a co wręcz przeciwnie</title>
+			<title>Ceny w Polsce równają do Europy. Co jest u nas najtańsze, a co wręcz przeciwnie</title>
 			<link>https://businessinsider.com.pl/gospodarka/eurostat-alarmuje-coraz-wyzsze-ceny-w-polsce-mieszkania-i-uslugi-pod-lupa/vsc01q1</link>
 			<description>Z przerwą na pandemiczne lata 2020-2021 rok po roku zbliżamy się cenowo do średniej unijnej. I to dużymi krokami. Na przykład ceny alkoholu w Niemczech są już o 21 proc. niższe niż w Polsce.</description>
 			<guid isPermaLink="false">f6dd3993-22fd-4898-8ad9-56dc90f74b9e</guid>
@@ -3360,33 +3405,6 @@
 			<pubDate>Mon, 13 Jul 2026 04:00:00 GMT</pubDate>
 			<category>praca</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/hSmk9kpTURBXy84NmI3OTczMmZjOWJlYjQwN2FjZWY2NWM1MTdkYTUyOS5wbmeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Największy pływający radar świata. Powstał dzięki współpracy USA i Rosji</title>
-			<link>https://businessinsider.com.pl/technologie/nowe-technologie/amerykanski-radar-sbx-1-tak-dziala-i-sledzi-rakiety/nyxjr5f</link>
-			<description>Dla najbardziej zaawansowanych technologicznie systemów obronnych odpowiednia siła ognia to jedynie część składowa. Odpowiednio szybkie i precyzyjne wykrycie tego, skąd nadciąga atak, jest niemniej ważne. Pływający, potężny amerykański radar SBX-1 to jedno z najlepszych tego typu rozwiązań na świecie… i zdecydowanie największe.</description>
-			<guid isPermaLink="false">4e628659-3e46-4d04-8df2-dd2b2606c149</guid>
-			<pubDate>Sun, 12 Jul 2026 17:41:00 GMT</pubDate>
-			<category>technologie</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/-W3k9kpTURBXy9mMGM2ZTJhN2U4Njc0ZDZiMDg5ZDMxMzJhYjFkMmM0NC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Reklamy AI całkowicie zalały internet. To, co pozostało &quot;ludzkie&quot; nie jest niestety dużo lepsze [OPINIA]</title>
-			<link>https://businessinsider.com.pl/technologie/nowe-technologie/meta-i-google-wprowadzaja-nowe-oznaczenia-ai-reklamy-juz-nigdy-nie-beda-takie-same/vl3xjlh</link>
-			<description>Meta i Google ogłosiły właśnie nowy, dodatkowy sposób oznaczania treści komercyjnych wygenerowanych z użyciem AI. Wiele wskazuje na to, że będziemy je niebawem widzieć przy każdej reklamie.</description>
-			<guid isPermaLink="false">26a31cd6-1fdc-4859-8c96-57fdd2e2850c</guid>
-			<pubDate>Sun, 12 Jul 2026 16:31:00 GMT</pubDate>
-			<category>technologie</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/Snjk9kpTURBXy9iMDBiYjZlNWI2MjZmZWFhMzllNDZlYTA1ZGQzMmExNi5wbmeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Anthropic przyłapane na śledzeniu użytkowników Claude Code</title>
-			<link>https://businessinsider.com.pl/technologie/nowe-technologie/anthropic-przylapana-na-sledzeniu-uzytkownikow-claude-code/3kddd75</link>
-			<description>Firma Anthropic od lat buduje swój wizerunek jako najbardziej etyczny gracz w branży sztucznej inteligencji. Podkreśla znaczenie bezpieczeństwa, prywatności i odpowiedzialnego rozwoju modeli. Tymczasem niedawno wyszło na jaw, że w jej narzędziu Claude Code umieszczono ukryty mechanizm śledzący, który potajemnie oznaczał zapytania pochodzące od użytkowników z Chin lub powiązanych z chińskimi laboratoriami AI.</description>
-			<guid isPermaLink="false">4928b28a-3f3e-4e5a-9dd4-7420d53bd12f</guid>
-			<pubDate>Sun, 12 Jul 2026 15:28:00 GMT</pubDate>
-			<category>technologie</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/Lgak9kpTURBXy9iMGI5MjhlZWU5NGIzYzBlMzRmMzQ5ZjI4YTgyNTk0YS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
