@@ -5,6 +5,15 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Wyciek danych w MyDr. Prawnik zwraca uwagę na ważną kwestię</title>
+			<link>https://businessinsider.com.pl/prawo/dane-sa-w-chmurze-ale-ryzyko-zostaje-u-przedsiebiorcy-lekcja-z-incydentu-mydr/jemkf8v</link>
+			<description>Cyberatak na systemy MyDr i możliwy wyciek danych milionów pacjentów wywołały pytania o bezpieczeństwo informacji w ochronie zdrowia. Ekspert zwraca uwagę, że przekazanie danych zewnętrznemu dostawcy technologii nie oznacza automatycznego przeniesienia na niego całej odpowiedzialności za ich ochronę.</description>
+			<guid isPermaLink="false">8188ac54-035c-4cd3-b3ce-1108bdb2e9f8</guid>
+			<pubDate>Thu, 13 Aug 2026 08:16:59 GMT</pubDate>
+			<category>prawo</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/GICk9kpTURBXy8xOWI3ZjgwYWJlMDQ0ZjdiNTk5ZTU0YzEwYWViMWJjZC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Podwyżki cen wyraźnie przyspieszyły. Są ostateczne dane na temat inflacji w Polsce</title>
 			<link>https://businessinsider.com.pl/gospodarka/inflacja-w-polsce-w-lipcu-2026-r-gus-opublikowal-nowe-dane/nys79yg</link>
 			<description>Inflacja w Polsce w lipcu 2026 r. była na podobnym poziomie jak rok temu — wynika z opublikowanych w czwartek danych Głównego Urzędu Statystycznego. To oznacza przyspieszenie podwyżek cen w porównaniu z analogicznym raportem sprzed miesiąca.</description>
@@ -20,7 +29,7 @@
 			<guid isPermaLink="false">22d9aca0-5bdc-485f-a5c2-d333fa725843</guid>
 			<pubDate>Thu, 13 Aug 2026 07:30:56 GMT</pubDate>
 			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/XAgk9kpTURBXy82OTYxM2RiNDE5ZTBhZTNjMzk0YzNmZWE2YzllODE3ZS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/DQUk9kpTURBXy8zZWU4OTQ1OWIzNjdkODdiMjc0NjFmOWJkNDdlOThlNS5wbmeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 		<item>
 			<title>MyDr padł ofiarą cyberataku. Firma podaje szczegóły</title>
@@ -2919,24 +2928,6 @@
 			<pubDate>Mon, 03 Aug 2026 09:32:07 GMT</pubDate>
 			<category>biznes</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/vitk9kpTURBXy8yMjEyYWYwNjUyNzRmYWVkMWRkZTlhYjgwM2U5YTI4Mi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Czy grozi nam blackout? Minister energii zabrał głos przed rekordowymi upałami</title>
-			<link>https://businessinsider.com.pl/gospodarka/fala-upalow-a-bezpieczenstwo-energii-milosz-motyka-system-jest-przygotowany/r15v14v</link>
-			<description>Nad Polskę nadciąga fala ekstremalnych upałów, a wraz z nią pytania o bezpieczeństwo krajowego systemu energetycznego. Minister energii Miłosz Motyka przekonuje, że ryzyko blackoutu jest niewielkie, choć przyznaje, że żaden kraj nie jest w stanie całkowicie zabezpieczyć się przed skutkami skrajnych zjawisk pogodowych.</description>
-			<guid isPermaLink="false">8cb2d1d2-f87a-4585-9e77-8a72a399104f</guid>
-			<pubDate>Mon, 03 Aug 2026 08:33:28 GMT</pubDate>
-			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/tGUk9kpTURBXy8yOTEyZWJkYWNiNDJhNzY5NzRjZTkxYTg0YWZjOWJmZC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Dzieci Zygmunta Solorza we władzach kolejnej spółki. Wchodzą w energetykę</title>
-			<link>https://businessinsider.com.pl/biznes/dzieci-zygmunta-solorza-we-wladzach-kolejnej-spolki-wchodza-w-energetyke/dvyp8s3</link>
-			<description>Troje dzieci Zygmunta Solorza i kilku menedżerów związanych z imperium medialnym polskiego miliardera weszło w skład władz kolejnej spółki. Zostali włączeni do rady nadzorczej PAK-PCE Biopaliwa i Wodór — firmy z sektora energetycznego — informuje portal Wirtualne Media.</description>
-			<guid isPermaLink="false">579f97fe-ea69-4ea3-902c-70743fc7ed9b</guid>
-			<pubDate>Mon, 03 Aug 2026 08:25:53 GMT</pubDate>
-			<category>biznes</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/U1fk9kpTURBXy84NWZjYmExN2ZiOTViZjRlODg1ZWRlYzY0NTllODE0NS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
