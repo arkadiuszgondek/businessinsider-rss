@@ -5,6 +5,15 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Boom na polską żywność. Najczęściej jedzie do Niemiec</title>
+			<link>https://businessinsider.com.pl/gospodarka/polscy-rolnicy-maja-powody-do-zadowolenia-eksport-rosnie/cb3mxjf</link>
+			<description>Wartość eksportu polskich produktów rolno-spożywczych w pierwszym półroczu 2026 r. wzrosła o niemal 2 proc. rok do roku i wyniosła około 123 mld zł — wynika z danych Krajowego Ośrodka Wsparcia Rolnictwa. Największym odbiorcą polskiej żywności pozostają Niemcy.</description>
+			<guid isPermaLink="false">9bbbd1b5-e5b7-4413-9fb4-e97d110ab655</guid>
+			<pubDate>Mon, 17 Aug 2026 18:35:48 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/0aVk9kpTURBXy9jYzE4MWU4ODVkNTZhNzUxNDY3MTRjOGVjNmRjZWYyZi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Ile za pracę? Nie wiadomo. Firmy ciągle ukrywają stawki</title>
 			<link>https://businessinsider.com.pl/gospodarka/firmy-ciagle-ukrywaja-stawki-w-ogloszeniach/t5sjd65</link>
 			<description>Aż 72 proc. pracowników uważa, że podawanie widełek wynagrodzeń w ogłoszeniach o pracę ma dla nich duże znaczenie — podaje Personnel Service. Jednak firmy wciąż bardzo lubią ukrywać stawki.</description>
@@ -2847,15 +2856,6 @@
 			<pubDate>Fri, 07 Aug 2026 19:18:32 GMT</pubDate>
 			<category>prawo</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/vdIk9kpTURBXy8zMGU3ZGQ2MGJlYTAzMDBmYTM4Y2I2NjgwOTYwZjVkYi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Rząd podał nową płacę minimalną. Wejdzie od stycznia</title>
-			<link>https://businessinsider.com.pl/gospodarka/placa-minimalna-wzrosnie-w-2027-r-rzad-oglasza-nowe-stawki/e0njnvn</link>
-			<description>Płaca minimalna w 2027 r. wzrośnie do 4950 zł brutto, a minimalna stawka godzinowa do 32,30 zł brutto — zakłada projekt rozporządzenia Rady Ministrów.</description>
-			<guid isPermaLink="false">73146670-cb6f-4a35-ae0f-4a77554c67bf</guid>
-			<pubDate>Fri, 07 Aug 2026 18:53:32 GMT</pubDate>
-			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/CaOk9kpTURBXy9iMTBkZDA0Mjg3MTllZGMxYWQxOTY1Y2M1ZWMyOGZjNi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
