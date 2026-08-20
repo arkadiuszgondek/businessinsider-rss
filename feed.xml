@@ -5,6 +5,24 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Rząd bierze się za rowerzystów i hulajnogi. Kary mają być ostrzejsze</title>
+			<link>https://businessinsider.com.pl/prawo/koniec-poblazliwosci-dla-rowerzystow-i-hulajnog-rzad-chce-zaostrzyc-kary/9sghp9m</link>
+			<description>Na chodnikach i przejściach dla pieszych ma być bezpieczniej. Ministerstwo Sprawiedliwości przygotowało projekt przepisów, który przewiduje surowsze konsekwencje dla rowerzystów, użytkowników hulajnóg elektrycznych i innych urządzeń transportu osobistego. Na celowniku znalazły się przede wszystkim przypadki zbyt szybkiej jazdy po chodniku oraz nieustępowania pierwszeństwa pieszym.</description>
+			<guid isPermaLink="false">e29eff11-8de0-4bad-86b8-1a79399d35ca</guid>
+			<pubDate>Thu, 20 Aug 2026 04:58:46 GMT</pubDate>
+			<category>prawo</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/Mqpk9kpTURBXy82ZmRkNWY5Y2ZkY2JhZjBhZGRmYWY1YjE4NzEyODVjYS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Donald Trump zapowiada &quot;gospodarczą wojnę&quot;. Na celowniku znalazły się dwa państwa</title>
+			<link>https://businessinsider.com.pl/gospodarka/trump-chce-odciac-iran-od-swiata-zapowiada-bezprecedensowa-izolacje/9dh10t6</link>
+			<description>Prezydent USA Donald Trump zapowiedział nowy etap presji na Iran. Choć nie ujawnił szczegółów planowanych działań, zagroził poważnymi konsekwencjami dla państw i firm utrzymujących relacje gospodarcze z Teheranem. W praktyce może to oznaczać dalszą eskalację napięć między Waszyngtonem a Pekinem, który pozostaje najważniejszym odbiorcą irańskiej ropy.</description>
+			<guid isPermaLink="false">e1491176-c03d-4f3f-8928-6a931a0d7b75</guid>
+			<pubDate>Thu, 20 Aug 2026 04:50:17 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/2dKk9kpTURBXy9kMTJjN2Y3NGZiOTAxNGM4ODcyZWUxMWQ3YTYwZjY3Ni5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>&quot;Rynek stanął nad przepaścią&quot;. Koszt obsługi długu przekroczy w tym roku ważną barierę</title>
 			<link>https://businessinsider.com.pl/finanse/budzet-w-potrzasku-zaplacimy-miliardy-za-ryzyko-inflacyjne-i-niestabilnosc-na-bliskim/dr1p6pn</link>
 			<description>Nie tylko wojna w Iranie, droga ropa naftowa i obawy o wzrost inflacji. Do wzrostu rentowności, czyli przeceny, obligacji skarbowych dołącza nowy czynnik — konkurencja ze strony firm inwestujących w AI. Dla Polski oznacza wyraźny wzrost kosztów obsługi długu.</description>
@@ -3135,15 +3153,6 @@
 			<pubDate>Mon, 10 Aug 2026 05:20:29 GMT</pubDate>
 			<category>wiadomosci</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/99wk9kpTURBXy82MWJhODc2MjY1YTM0OGE3ZjcxZGNjODNlZmJiNzMxYi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Tak Tajwan szykuje się na starcie z Chinami. Odeszli od corocznych schematów</title>
-			<link>https://businessinsider.com.pl/wiadomosci/manewry-na-tajwanie-wyspa-sprawdza-reakcje-na-atak-chin/g52gng1</link>
-			<description>Siły powietrzne Tajwanu ćwiczyły m.in. naprawę pasa startowego i awaryjne starty w bazie lotniczej Hsinchu. To tam stacjonują należące do wyspy Mirage 2000-5, jej podstawowe myśliwce przechwytujące. Ćwiczenia były częścią corocznych manewrów Han Kuang, czyli symulacji chińskiej inwazji. W tym roku Tajwan postawił na inną niż zwykle koncepcję manewrów.</description>
-			<guid isPermaLink="false">91804911-2a03-40b9-9616-74cc1e36af80</guid>
-			<pubDate>Mon, 10 Aug 2026 04:58:48 GMT</pubDate>
-			<category>wiadomosci</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/Sdjk9kpTURBXy82NzQ4NTRmNTVlMTlkNjRmMjkwOWJlNWI4ZjUyZWM5Yi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
