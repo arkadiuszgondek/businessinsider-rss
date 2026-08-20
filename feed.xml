@@ -5,6 +5,15 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Polski przemysł przyspiesza w lipcu. Wyniki GUS lepsze od oczekiwań</title>
+			<link>https://businessinsider.com.pl/gospodarka/gus-podal-dane-o-produkcji-przemyslowej-lipiec-zaskoczyl-ekonomistow/xce3x00</link>
+			<description>Lipiec okazał się korzystny dla polskiego przemysłu. Najnowsze dane GUS wskazują na wzrost produkcji nieco szybszy od prognoz.</description>
+			<guid isPermaLink="false">d4c3bbf2-0cd2-45c0-997b-d57f202a5f71</guid>
+			<pubDate>Thu, 20 Aug 2026 07:52:08 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/whXk9kpTURBXy9iNDMzYjQ4NDU1OTk1OGZlMjNmZmQyMGE3Y2M0YjNjNi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Tak rosną wynagrodzenia w Polsce. Sprawdź, czy łapiesz się na średnią krajową</title>
 			<link>https://businessinsider.com.pl/gospodarka/glowny-urzad-statystyczny-podal-nowe-dane-o-placach-wynagrodzenia-rosna-wolniej/1yex3w0</link>
 			<description>Poznaliśmy najnowsze dane, opublikowane przez Główny Urząd Statystyczny, dotyczące tempa wzrostu płac w polskich firmach. Wynagrodzenia nadal rosną, ale coraz wolniej. Stabilizacja inflacji pomaga w utrzymaniu niezłego tempa realnego wzrostu płac.</description>
@@ -50,7 +59,7 @@
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/Nk6k9kpTURBXy82MmU4MzA3NGMzNjg2OTFkMzI3NzM4MGE2ZDExMDRmNS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 		<item>
-			<title>Dożywocie dla miliardera. Dług deweloperskiego giganta zagroził chińskiej gospodarce</title>
+			<title>Dożywocie dla miliardera. Dług deweloperskiego giganta zagroził całej gospodarce</title>
 			<link>https://businessinsider.com.pl/prawo/tworca-evergrande-dostal-dozywocie-dlug-firmy-zagrozil-chinskiej-gospodarce/8mhqs6r</link>
 			<description>Chiński sąd skazał Xu Jiayina, twórcę koncernu nieruchomościowego Evergrande, na karę dożywotniego więzienia. Miliarder odpowiadał za przestępstwa finansowe, które doprowadziły do upadku giganta branży deweloperskiej i pogłębiły kryzys zadłużeniowy w Chinach.</description>
 			<guid isPermaLink="false">8003b365-c1b0-4e6e-808c-934196d7701e</guid>
@@ -3171,15 +3180,6 @@
 			<pubDate>Mon, 10 Aug 2026 08:23:14 GMT</pubDate>
 			<category>nieruchomosci</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/kiyk9kpTURBXy9hMjBiMTlkOWQzODAwMjRlYTA0NmQ1ZmFjMDU0Y2ZlMy5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Reset relacji po brexicie? Wielka Brytania i Unia Europejska mają dla siebie propozycje</title>
-			<link>https://businessinsider.com.pl/gospodarka/reset-po-brexicie-londyn-chce-nowego-otwarcia-z-ue/m0syk39</link>
-			<description>Wielka Brytania zamierza zintensyfikować działania na rzecz pogłębienia współpracy z Unią Europejską — donosi &quot;The Telegraph&quot;. Na stole leżą ciekawe propozycje. Jedna z nich obejmuje powrót do jednolitego rynku towarowego. Jednak nie za darmo.</description>
-			<guid isPermaLink="false">6747b15f-71a0-4f06-a552-331aa09229f3</guid>
-			<pubDate>Mon, 10 Aug 2026 07:53:39 GMT</pubDate>
-			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/oXfk9kpTURBXy9lY2U1ZWJiY2UyZjU1ZWMwMWY3ZDMwNTc1NTlhNGI5ZS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
