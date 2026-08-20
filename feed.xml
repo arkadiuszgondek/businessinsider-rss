@@ -5,6 +5,15 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Niemcy tankują w Polsce na potęgę. Takiej różnicy cen dawno nie było</title>
+			<link>https://businessinsider.com.pl/gospodarka/paliwo-w-polsce-znacznie-tansze-niz-w-niemczech-kierowcy-ruszyli-na-zakupy/2htyws4</link>
+			<description>Polskie stacje benzynowe przy zachodniej granicy przeżywają prawdziwe oblężenie. Po obniżce VAT i wprowadzeniu maksymalnych cen paliw różnica między Polską a Niemcami sięga nawet 80–90 eurocentów na litrze. Dla niemieckich kierowców przejazd przez granicę stał się więc wyjątkowo opłacalny.</description>
+			<guid isPermaLink="false">4495b316-e7cf-4371-b479-0de312b8d889</guid>
+			<pubDate>Thu, 20 Aug 2026 08:16:28 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/sZmk9kpTURBXy82YWY2ZjY0ZmY1MWFkY2NkMTI4MDQ4YmVjMTBlNjU1Mi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Polski przemysł przyspiesza w lipcu. Wyniki GUS lepsze od oczekiwań</title>
 			<link>https://businessinsider.com.pl/gospodarka/gus-podal-dane-o-produkcji-przemyslowej-lipiec-zaskoczyl-ekonomistow/xce3x00</link>
 			<description>Lipiec okazał się korzystny dla polskiego przemysłu. Najnowsze dane GUS wskazują na wzrost produkcji nieco szybszy od prognoz.</description>
@@ -16,11 +25,11 @@
 		<item>
 			<title>Tak rosną wynagrodzenia w Polsce. Sprawdź, czy łapiesz się na średnią krajową</title>
 			<link>https://businessinsider.com.pl/gospodarka/glowny-urzad-statystyczny-podal-nowe-dane-o-placach-wynagrodzenia-rosna-wolniej/1yex3w0</link>
-			<description>Poznaliśmy najnowsze dane, opublikowane przez Główny Urząd Statystyczny, dotyczące tempa wzrostu płac w polskich firmach. Wynagrodzenia nadal rosną, ale coraz wolniej. Stabilizacja inflacji pomaga w utrzymaniu niezłego tempa realnego wzrostu płac.</description>
+			<description>Poznaliśmy najnowsze dane, opublikowane przez Główny Urząd Statystyczny, dotyczące tempa wzrostu płac w polskich firmach. Tempo wzrostu wynagrodzeń znowu przyśpieszyło, co nie jest najlepszą informacją dla Rady Polityki Pieniężnej. Stabilizacja inflacji pomaga w utrzymaniu niezłego tempa realnego wzrostu płac.</description>
 			<guid isPermaLink="false">cdf55165-d2e7-44c0-b04d-edefad31377d</guid>
 			<pubDate>Thu, 20 Aug 2026 07:32:13 GMT</pubDate>
 			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/XAgk9kpTURBXy82OTYxM2RiNDE5ZTBhZTNjMzk0YzNmZWE2YzllODE3ZS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/xEOk9kpTURBXy8yNGRmMGIwMjdkMTFmMmFkMzBhNTg5Y2UyOTRhMDc2OC5wbmeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 		<item>
 			<title>Ile &quot;atomówek&quot; ma Kim Dzong Un? Rozbieżności w danych Seulu i Trumpa</title>
@@ -3171,15 +3180,6 @@
 			<pubDate>Mon, 10 Aug 2026 08:54:46 GMT</pubDate>
 			<category>gospodarka</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/ZkOk9kpTURBXy9kNjY5NWY5MjZkNzk4ZGNkMWM2OTlkNWM1YTBiN2VlYS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Ożywienie na rynku mieszkań. W siedmiu miastach padły rekordowe wyniki</title>
-			<link>https://businessinsider.com.pl/nieruchomosci/rynek-mieszkaniowy-w-polsce-zaskoczyl-w-lipcu-sprzedaz-mocno-w-gore/j9kc4ym</link>
-			<description>Rynek mieszkaniowy w największych polskich miastach odnotował znaczący wzrost aktywności w lipcu. Kupujący nabyli mieszkania licznie, a deweloperzy utrzymali ceny na stabilnym poziomie. Dane pokazują ożywienie po wcześniejszych wahaniach.</description>
-			<guid isPermaLink="false">0cce1393-78fe-4aa4-9e10-b22af26799ae</guid>
-			<pubDate>Mon, 10 Aug 2026 08:23:14 GMT</pubDate>
-			<category>nieruchomosci</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/kiyk9kpTURBXy9hMjBiMTlkOWQzODAwMjRlYTA0NmQ1ZmFjMDU0Y2ZlMy5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
