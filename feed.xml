@@ -5,6 +5,15 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Bransoleta zamiast celi. Ministerstwo pracuje nad aresztem elektronicznym</title>
+			<link>https://businessinsider.com.pl/prawo/areszt-elektroniczny-wraca-do-gry-resort-sprawiedliwosci-szykuje-nowe-przepisy/hfp7xlp</link>
+			<description>Ministerstwo Sprawiedliwości nie porzuciło pomysłu wprowadzenia aresztu elektronicznego. Choć prace legislacyjne są opóźnione, resort zapowiada, że projekt nowych przepisów ma być gotowy jeszcze przed końcem roku. Rozwiązanie ma ograniczyć skalę stosowania aresztu tymczasowego, od lat krytykowanego przez prawników i organizacje pozarządowe.</description>
+			<guid isPermaLink="false">b756a25c-ce53-4358-87db-5d93ee168e05</guid>
+			<pubDate>Thu, 20 Aug 2026 05:36:39 GMT</pubDate>
+			<category>prawo</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/7zVk9kpTURBXy85N2QzMjE2YjVmOWIyODBjZDFjYjJkNjZkNzM5ZTMwOS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Rząd bierze się za rowerzystów i hulajnogi. Kary mają być ostrzejsze</title>
 			<link>https://businessinsider.com.pl/prawo/koniec-poblazliwosci-dla-rowerzystow-i-hulajnog-rzad-chce-zaostrzyc-kary/9sghp9m</link>
 			<description>Na chodnikach i przejściach dla pieszych ma być bezpieczniej. Ministerstwo Sprawiedliwości przygotowało projekt przepisów, który przewiduje surowsze konsekwencje dla rowerzystów, użytkowników hulajnóg elektrycznych i innych urządzeń transportu osobistego. Na celowniku znalazły się przede wszystkim przypadki zbyt szybkiej jazdy po chodniku oraz nieustępowania pierwszeństwa pieszym.</description>
@@ -59,9 +68,9 @@
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/hCxk9kpTURBXy8yMDA5ZDlmMjY2NDhkYmYwOTVmOTNmN2I5MjYwMGE5ZC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 		<item>
-			<title>Rewolucja w PIT. Jedni się cieszą, a drudzy &quot;płacz i płać&quot;</title>
+			<title>Możliwa rewolucja w PIT. Jedni się cieszą, a drudzy &quot;płacz i płać&quot;</title>
 			<link>https://businessinsider.com.pl/prawo/podatki/podatki-2027-kto-zyska-a-kto-straci-na-propozycjach-rzadu-donalda-tuska/czg30eg</link>
-			<description>Rząd zaproponował w środę zmiany w PIT i CIT. Maksymalny zysk ma wynieść 3600 zł rocznie, czyli 300 zł miesięcznie. Premier Donald Tusk nie wskazał jednak, ile więcej będą musieli zapłacić przedsiębiorcy, w tym ryczałtowcy. Przy okazji rząd może więcej zebrać ze składki zdrowotnej, na co zwracają uwagę eksperci.</description>
+			<description>Rząd zaproponował w środę zmiany w PIT i CIT. Maksymalny zysk ma wynieść 3600 zł rocznie, czyli 300 zł miesięcznie. Premier Donald Tusk nie wskazał jednak, ile więcej będą musieli zapłacić przedsiębiorcy, w tym ryczałtowcy. Przy okazji rząd może więcej zebrać ze składki zdrowotnej, na co zwracają uwagę eksperci. Warto jednak zaznaczyć, że na razie nie jest to jeszcze nawet projekt, a nie wiadomo również, co z tym zrobi Karol Nawrocki.</description>
 			<guid isPermaLink="false">ab96a2f8-e51e-444d-8dc4-e3971f37fa02</guid>
 			<pubDate>Thu, 20 Aug 2026 04:04:00 GMT</pubDate>
 			<category>prawo</category>
@@ -3144,15 +3153,6 @@
 			<pubDate>Mon, 10 Aug 2026 06:07:41 GMT</pubDate>
 			<category>gospodarka</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/hkKk9kpTURBXy8yMzRjNDE3NjMxMzU2MTY3ODA5OTc0MWJmNDRjYWZlMS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Ukraińskie ataki na Krym mogą wzrosnąć wielokrotnie. Jest jeden warunek</title>
-			<link>https://businessinsider.com.pl/wiadomosci/krym-na-celowniku-ukrainy-polwysep-ma-stracic-wojskowa-role/p0mc5pv</link>
-			<description>Trwające od końca czerwca systematyczne uderzenia na zaanektowany przez Rosję Krym stanowią dopiero początek zorganizowanej operacji wymierzonej w wojskowe wykorzystanie półwyspu przez agresora. Dowódca odpowiedzialny za ukraińską wojnę dronową ujawnił w rozmowie z Associated Press, że prowadzone działania mają przekształcić strategiczny obszar w lokalizację nieprzydatną do wspierania rosyjskich sił zbrojnych.</description>
-			<guid isPermaLink="false">57417405-57fe-49c4-875b-0ecc08e698d8</guid>
-			<pubDate>Mon, 10 Aug 2026 05:20:29 GMT</pubDate>
-			<category>wiadomosci</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/99wk9kpTURBXy82MWJhODc2MjY1YTM0OGE3ZjcxZGNjODNlZmJiNzMxYi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
