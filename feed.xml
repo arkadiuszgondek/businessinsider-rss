@@ -5,6 +5,24 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Ceny rosną, ale konsumenci i tak mają powody do zadowolenia [Koszyk zakupowy Business Insidera i aplikacji PanParagon]</title>
+			<link>https://businessinsider.com.pl/poradnik-finansowy/tak-wygladaja-ceny-w-sklepach-jest-duzo-taniej-niz-rok-temu/qb8dbjy</link>
+			<description>W sklepach mamy wzrost cen podstawowych produktów. Nie znaczy to jednak, że jest drogo — stawki są dużo niższe niż na początku lata czy też w 2025 r.</description>
+			<guid isPermaLink="false">1c32d145-f22b-46a6-91aa-03b1229c43a4</guid>
+			<pubDate>Mon, 24 Aug 2026 05:14:33 GMT</pubDate>
+			<category>poradnik-finansowy</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/xStk9kpTURBXy83Yzk2NGI1Nzg4MTNiZTNjZTA2YWIzZjdiNDJhZGUzYS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Na to państwo powinno wydawać więcej. Wyniki najnowszego sondażu</title>
+			<link>https://businessinsider.com.pl/wiadomosci/donald-tusk-zapowiada-rekordowe-srodki-na-ochrone-zdrowia-co-na-to-polacy/ejbzwkm</link>
+			<description>Polacy oczekują zwiększenia wydatków na ochronę zdrowia — wynika z najnowszego sondażu przeprowadzonego przez SW Research dla &quot;Dziennika Gazety Prawnej&quot;. Jednocześnie większość respondentów uważa, że oszczędności należy szukać w administracji publicznej.</description>
+			<guid isPermaLink="false">ca276993-1253-4848-b2cb-ef6545c9dd6b</guid>
+			<pubDate>Mon, 24 Aug 2026 04:56:41 GMT</pubDate>
+			<category>wiadomosci</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/KgAk9kpTURBXy8xYjRlNWZmNzZhNzk5OTc4YjVlOTBhZmIyYjIyMTY5OS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Ceny paliw znów w górę. Resort podniósł limity na stacjach</title>
 			<link>https://businessinsider.com.pl/prawo/podatki/ceny-paliw-znow-w-gore-resort-podniosl-limity-na-stacjach/dqg028l</link>
 			<description>Kierowcy tankujący w poniedziałek zapłacą więcej niż w ostatni dzień roboczy poprzedniego tygodnia. Nowe obwieszczenie resortu energii podnosi górne pułapy cen wszystkich rodzajów paliw dostępnych na stacjach.</description>
@@ -2820,24 +2838,6 @@
 			<pubDate>Fri, 14 Aug 2026 06:14:04 GMT</pubDate>
 			<category>prawo</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/cMUk9kpTURBXy9hOGFkYTJkMTA3ZGZlYTYyZjI4YzAzMjJiNGIyZDE0Yi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>USA: morska blokada Iranu może trwać bez końca. &quot;Sytuacja jest napięta&quot;</title>
-			<link>https://businessinsider.com.pl/gospodarka/blokada-ciesniny-ormuz-moze-potrwac-dluzej-nowe-informacje/n49x88d</link>
-			<description>Stany Zjednoczone ogłosiły, że są gotowe utrzymywać morską blokadę Iranu bez ograniczeń czasowych, jednocześnie zapowiadając kolejne sankcje wobec Teheranu. Sekretarz Skarbu USA zagroził &quot;niespotykanymi środkami gospodarczymi&quot;.</description>
-			<guid isPermaLink="false">4b091c7c-8800-4792-8926-b586e581f174</guid>
-			<pubDate>Fri, 14 Aug 2026 05:20:09 GMT</pubDate>
-			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/Qrwk9kpTURBXy9mYmU0YjYzYTVlYzg4YWE0N2YyZmRkMzEyYmIxYjNhYi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>AI miała rewolucjonizować biznes. Na razie kończy się porażką</title>
-			<link>https://businessinsider.com.pl/technologie/sztuczna-inteligencja-miala-przyspieszac-prace-jest-zupelnie-inaczej/rcqbtmf</link>
-			<description>Miała przyspieszać pracę i obniżać koszty. Tymczasem większość pierwszych wdrożeń AI w biznesie to porażka — pisze w piątkowym wydaniu &quot;Rzeczpospolita&quot;.</description>
-			<guid isPermaLink="false">7e4bd021-c6bd-4460-b065-5315a6b0911e</guid>
-			<pubDate>Fri, 14 Aug 2026 04:48:47 GMT</pubDate>
-			<category>technologie</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/TSak9kpTURBXy84ZTBkYTNhZTk2ZjA4MzQ5ZWU2MzJmZDUzNjlhNDg5ZC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
