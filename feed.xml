@@ -5,6 +5,15 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Ponad milion młodych ludzi w Niemczech bez pracy. Należą do NEET</title>
+			<link>https://businessinsider.com.pl/praca/niemcy-maja-problem-z-mlodymi-nawet-12-mln-nic-nie-robi-w-zyciu/v73779t</link>
+			<description>&quot;Ponad milion młodych ludzi w Niemczech nie uczy się ani nie pracuje. Kim są osoby NEET — i dlaczego ich liczba rośnie?&quot; — zastanawia się niemiecki dziennik &quot;Focus&quot;.</description>
+			<guid isPermaLink="false">fb59dc98-33fc-4ffc-b287-5d8132158207</guid>
+			<pubDate>Tue, 25 Aug 2026 08:08:18 GMT</pubDate>
+			<category>praca</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/Lrtk9kpTURBXy9mODZkNDgyYWY3YjdmMzQzYjY5ODAxMGE1NTMyZTA5My5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>To mówią eksperci o eskalacji wojny handlowej Donalda Trumpa z Kanadą</title>
 			<link>https://businessinsider.com.pl/finanse/handel/wojna-handlowa-donalda-trumpa-eksperci-komentuja/pg0n11j</link>
 			<description>Stany Zjednoczone i Kanada zerwały negocjacje w sprawie nowej umowy handlowej. W odpowiedzi Donald Trump od poniedziałku wprowadza nowe cła na dobra importowane z kraju sąsiada z północy.</description>
@@ -16,11 +25,11 @@
 		<item>
 			<title>Nowe dane o polskim bezrobociu. Są pozytywy</title>
 			<link>https://businessinsider.com.pl/gospodarka/bezrobocie-w-polsce-w-lipcu-2026-gus-publikuje-najnowsze-dane/dv965bn</link>
-			<description>Stopa bezrobocia w lipcu 2026 r. wyniosła 5,8 proc. wobec 5,4 proc. rok temu — podał we wtorek GUS. To lepsze informacje, niż podawał wstępnie resort pracy na początku miesiąca.</description>
+			<description>Stopa bezrobocia w lipcu 2026 r. wyniosła 5,8 proc. wobec 5,4 proc. rok temu — podaje we wtorek GUS. To lepsze dane, niż wstępnie podawał resort pracy na początku miesiąca.</description>
 			<guid isPermaLink="false">2b565c44-2b1e-4028-b3e8-83405010a610</guid>
-			<pubDate>Tue, 25 Aug 2026 07:39:31 GMT</pubDate>
+			<pubDate>Tue, 25 Aug 2026 07:36:31 GMT</pubDate>
 			<category>gospodarka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/XAgk9kpTURBXy82OTYxM2RiNDE5ZTBhZTNjMzk0YzNmZWE2YzllODE3ZS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/iZVk9kpTURBXy8zMjVmODUyMGRhYTA5ZTYwODgzZTM3Yjk2N2FiMTEyZi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 		<item>
 			<title>30 pytań PIP do przedsiębiorców. Mają sprawdzić, czy B2B i zlecenia są legalne</title>
@@ -2901,15 +2910,6 @@
 			<pubDate>Sat, 15 Aug 2026 08:48:50 GMT</pubDate>
 			<category>biznes</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/9qyk9kpTURBXy8zNzgzMjQ4MWQxMGM5NTQyYjM2MmMzNjJlYmI5MmIwMS5wbmeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Oszustwo &quot;na Booking&quot;. Jak nie stracić pieniędzy przy rezerwacji noclegu w sieci</title>
-			<link>https://businessinsider.com.pl/technologie/falszywa-wiadomosc-z-booking-lub-airbnb-jak-ja-rozpoznac/wt0sqkk</link>
-			<description>Niespodziewanie otrzymujecie wiadomość od właściciela obiektu, w którym zarezerwowaliście nocleg. Zawiera ostrzeżenie, że bliżej nieokreślony problem z rezerwacją może doprowadzić do jej anulowania. Tak zaczyna się jedno z najgroźniejszych oszustw wymierzonych w turystów.</description>
-			<guid isPermaLink="false">b3cb95a6-7e06-43e4-87b0-7f2686868c07</guid>
-			<pubDate>Sat, 15 Aug 2026 07:56:45 GMT</pubDate>
-			<category>technologie</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/sG8k9kpTURBXy9mZWE3YjdmZmYxZWMxZDAyY2JiZDM4NWI2MDY1MTM3MS5wbmeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
