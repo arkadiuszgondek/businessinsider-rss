@@ -5,6 +5,15 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Łukasz Schreiber nowym szefem klubu Rozwój Plus. Oto jego majątek i zarobki</title>
+			<link>https://businessinsider.com.pl/finanse/roszady-w-klubie-rozwoj-plus-lukasz-schreiber-zastapil-mateusza-morawieckiego-oto/v5jyhpm</link>
+			<description>Łukasz Schreiber został szefem klubu parlamentarnego Rozwój Plus, zastępując Mateusza Morawieckiego. Sprawdziliśmy jego oświadczenie majątkowe. Poseł PiS ma kilka tysięcy złotych oszczędności i nie posiada nieruchomości. Ma za to pokaźną bibliotekę.</description>
+			<guid isPermaLink="false">7ede4e57-5b18-4871-9cee-565d224a3840</guid>
+			<pubDate>Wed, 02 Sep 2026 17:38:05 GMT</pubDate>
+			<category>finanse</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/yPnk9kpTURBXy8zYzU5YTk2MDk2MTNlNWRhMDhmZDk1OWRkNWYwMTEyMC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Polacy ocenili Karola Nawrockiego. Oto werdykt</title>
 			<link>https://businessinsider.com.pl/wiadomosci/nowy-sondaz-cbos-karol-nawrocki-traci-sejm-i-senat-zyskuje/0tzg9ht</link>
 			<description>Ponad połowa uczestników sondażu CBOS pozytywnie oceniła działania prezydenta Karola Nawrockiego, choć jego notowania spadły w porównaniu z poprzednim miesiącem. Wzrosło za to poparcie dla Sejmu i Senatu, choć sięga ona zaledwie 30-35 proc.</description>
@@ -3243,15 +3252,6 @@
 			<pubDate>Mon, 24 Aug 2026 04:00:00 GMT</pubDate>
 			<category>prawo</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/xfWk9kpTURBXy9hZjI2ZTlhNDdjZmU0NmUwNWZiYTBmNTY3ZGZmZDJkYS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Chiny zalewają świat otwartą AI. Co to oznacza dla świata?</title>
-			<link>https://businessinsider.com.pl/technologie/nowe-technologie/alibaba-zdominowala-swiat-ai-otwartymi-modelami-qwen-pobrany-juz-3-mld-razy/r190xgd</link>
-			<description>Aż trzy miliardy razy w ciągu zaledwie sześciu miesięcy pobrano otwarte modele językowe należące tylko do jednej chińskiej firmy — Alibaba. To wielokrotnie więcej niż w przypadku odpowiedników amerykańskich, gdyż modele biznesowe tamtejszych firm skupiają się raczej na zamkniętych modelach językowych. Paradoksalnie więc Chiny mają więcej open AI niż OpenAI. Co to oznacza dla świata?</description>
-			<guid isPermaLink="false">5f662d6c-e6b9-41f3-bcbf-b4e314ec4fe5</guid>
-			<pubDate>Sun, 23 Aug 2026 17:30:00 GMT</pubDate>
-			<category>technologie</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/hHmk9kpTURBXy82MjVhYTU4Y2NhMGU5Yjc5ZGJjZTA5Mzc3NWM2Y2YwNi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
