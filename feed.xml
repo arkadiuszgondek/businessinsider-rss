@@ -5,13 +5,31 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Podatek od nadzwyczajnych zysków z paliw. Tak ma zadziałać</title>
+			<link>https://businessinsider.com.pl/prawo/podatki/orlen-zaplaci-miliardy-podatku-karol-nawrocki-podjal-decyzje/d4f2vdm</link>
+			<description>Prezydent Karol Nawrocki podpisał ustawę o podatku od nadmiarowych zysków z paliw i skierował ją do Trybunału Konstytucyjnego w trybie następczym. Ustawa już została opublikowana. Koncerny paliwowe, głównie Orlen, zapłacą ok. 4 mld zł podatku. Rząd, zgodnie z zapowiedziami, ma obniżyć ceny paliw na stacjach. Nie ma tu jednak automatyzmu.</description>
+			<guid isPermaLink="false">d5ef33b1-38fe-493d-b153-da835d50c1d7</guid>
+			<pubDate>Thu, 01 Oct 2026 19:17:28 GMT</pubDate>
+			<category>prawo</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/Ss8k9kpTURBXy8wNGJkMzY3MGYxNDhmYjBkOTVmNDAyZmY3N2M0NGRlZi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Andrzej Domański: już w weekend ceny na stacjach będą niższe. Podał kwotę</title>
+			<link>https://businessinsider.com.pl/gospodarka/andrzej-domanski-w-przyszlym-tygodniu-ceny-na-stacjach-w-polsce-beda-nizsze/y3r6q3q</link>
+			<description>Już w weekend ceny na stacjach paliwowych będą niższe. Szacunkowo o około 1,2-1,3 zł na litrze. I po co były te gierki, Panie Prezydencie? — napisał w czwartek wieczorem minister finansów i gospodarki Andrzej Domański.</description>
+			<guid isPermaLink="false">3f3891f8-5101-4a75-900c-db1248507b1a</guid>
+			<pubDate>Thu, 01 Oct 2026 19:05:40 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/lCxk9kpTURBXy84Y2E5OTIzYWQwN2VmOWQ4ZjdjZjBkZTJjN2JkYWZkNi5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>Ustawa paliwowa. Prezydent zdecydował. &quot;Obniżki mają nastąpić od razu&quot;</title>
 			<link>https://businessinsider.com.pl/prawo/ustawa-paliwowa-prezydent-zdecydowal/356kbnl</link>
 			<description>Podpisałem ustawę o nadmiarowych zyskach koncernów paliwowych — powiedział prezydent Karol Nawrocki.</description>
 			<guid isPermaLink="false">d98d81f9-a49c-456c-ace9-3a8029663449</guid>
 			<pubDate>Thu, 01 Oct 2026 18:07:57 GMT</pubDate>
 			<category>prawo</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/i0uk9kpTURBXy8yMGZhMTk0ZmFkYzlhNGZlNDM2ZjM1MGRmOTViMzQ5Yy5wbmeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/gULk9kpTURBXy9lNmViZWFkMTdlN2ZjMzUxMDNhOTZiYmRkYzA0ZjEzZS5wbmeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 		<item>
 			<title>Media: Donald Trump stawia Niemcom ultimatum w sprawie diesla</title>
@@ -4080,15 +4098,6 @@
 			<pubDate>Tue, 22 Sep 2026 03:00:00 GMT</pubDate>
 			<category>finanse</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/eFNk9kpTURBXy81OWNiZDMyMWFkNWVhZTFiYjMyMTQ5ODk3ZDkyYTQ5MS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Awaria sparaliżowała loty w USA. Wstrzymanych ponad 1000 rejsów</title>
-			<link>https://businessinsider.com.pl/lifestyle/podroze/chaos-na-lotniskach-w-usa-tuz-przed-sesja-zgromadzenia-ogolnego-onz/y3et9zc</link>
-			<description>W poniedziałek mają miejsca masowe opóźnienia lotów do i z Nowego Jorku. Powodem jest przecięcie kabla światłowodowego. Utrudnienia wystąpiły dzień przed sesją Zgromadzenia Ogólnego ONZ.</description>
-			<guid isPermaLink="false">ac344136-9bda-4af9-a9b6-c05ce3b51817</guid>
-			<pubDate>Mon, 21 Sep 2026 20:07:56 GMT</pubDate>
-			<category>lifestyle</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/M6Rk9kpTURBXy9kZWFmODQ3YjZjMDgzMGZkY2UwMWUzYWQ1M2RhODI2My5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
