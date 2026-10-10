@@ -5,6 +5,24 @@
 		<link>https://businessinsider.com.pl/</link>
 		<description>Zbiorczy RSS Business Insider Polska</description>
 		<item>
+			<title>Wylot polskiej delegacji do Arabii Saudyjskiej odwołany. Powodem zamknięcie lotniska po atakach</title>
+			<link>https://businessinsider.com.pl/gospodarka/atak-huti-na-lotnisko-w-rijadzie-wylot-polskiej-delegacji-odwolany/jx11d76</link>
+			<description>— Wylot do Rijadu odwołany po atakach. Lotnisko zamknięte — informuje Business Insider Polska minister energii Miłosz Motyka, który wraz z delegacją Orlenu w niedzielę miał rozpocząć wizytę w Arabii Saudyjskiej.</description>
+			<guid isPermaLink="false">ba3d0edb-1b21-4c0b-9b2f-4b94756ea64c</guid>
+			<pubDate>Sat, 10 Oct 2026 18:29:28 GMT</pubDate>
+			<category>gospodarka</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/fMjk9kpTURBXy81OTFkMzQ3NGNmYzQwZWEwMzVkZWEwZTJlOTNlMThlMC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
+			<title>Robert jest legendą ulic Nowego Jorku. Nam zdradza, ile na tym zarabia i ile ma na kontach</title>
+			<link>https://businessinsider.com.pl/lifestyle/nagi-kowboj-jest-legenda-times-square-oto-jego-zarobki/ptcr4c8</link>
+			<description>Robert John Burck II, znany jako Nagi Kowboj, jest symbolem nowojorskiego Times Square. I całkiem dobrze na tym zarabia. Z czasem znalazł sposób, by znacząco podnieść wpływy. Business Insiderowi opowiada zarówno o swoich zarobkach, jak i wydatkach. — Nagi Kowboj to biznes — podkreśla.</description>
+			<guid isPermaLink="false">2fa773ba-2e7b-4d27-b34d-5f586848d3b7</guid>
+			<pubDate>Sat, 10 Oct 2026 18:00:00 GMT</pubDate>
+			<category>lifestyle</category>
+			<enclosure url="https://ocdn.eu/pulscms-transforms/1/D5Ek9kpTURBXy8wNGJjNGFkMWY0NThmOGQyZTM3YzZjNWIwMDMyZjgzMS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
+		</item>
+		<item>
 			<title>USA zostały daleko za Chinami. Teraz próbują odbudować potęgę na morzu</title>
 			<link>https://businessinsider.com.pl/wiadomosci/usa-kontra-chiny-amerykanie-probuja-odbudowac-przemysl-stoczniowy/2lewy90</link>
 			<description>Stany Zjednoczone chcą rozbudować flotę wojenną, ale mierzą się z problemem, którego nie da się rozwiązać samymi miliardami dolarów. Brakuje pracowników, stocznie są przeciążone, budowa okrętów trwa latami, a koszty rosną. W tym czasie Chiny stały się zdecydowanie największym producentem statków na świecie. Waszyngton próbuje więc odbudować własny przemysł stoczniowy, korzystając m.in. z doświadczenia Korei Południowej.</description>
@@ -3450,24 +3468,6 @@
 			<pubDate>Thu, 01 Oct 2026 04:00:00 GMT</pubDate>
 			<category>gospodarka</category>
 			<enclosure url="https://ocdn.eu/pulscms-transforms/1/rPvk9kpTURBXy85MWIzOTNjNjc5MTA3ZDVlMDgyZDgyMjVhN2NjZjAwZC5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Rosja ostrzega NATO. W grę wchodzi Kaliningrad</title>
-			<link>https://businessinsider.com.pl/polityka/rosja-grozi-nato-uzyciem-broni-jadrowej-kaliningrad-znow-na-celowniku/s5prpc7</link>
-			<description>Kreml wchodzi na kolejny poziom eskalacji. Rosja otwarcie grozi NATO użyciem broni jądrowej, jeśli sojusz wojskowy spróbuje odciąć rosyjską eksklawę Kaliningrad od terytorium Rosji.</description>
-			<guid isPermaLink="false">5c4f94ee-e9ee-4f02-a288-f0da25094a51</guid>
-			<pubDate>Wed, 30 Sep 2026 19:56:00 GMT</pubDate>
-			<category>polityka</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/2P-k9kpTURBXy85ZWQyOTBmYjE1NzU1NDI4OTI5YjQyMzY4NmQwODJmYS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
-		</item>
-		<item>
-			<title>Słynny miliarder chce opodatkować roboty i AI. Mają płacić jak pracownicy</title>
-			<link>https://businessinsider.com.pl/technologie/nowe-technologie/praca-w-dobie-ai-bill-gates-przekonuje-do-opodatkowania-robotow/m43k4w8</link>
-			<description>Bill Gates twierdzi, że pracownicy powinni dokładać do wspólnej państwowej kasy swoją sprawiedliwą część — nawet jeśli nie są ludźmi. Według miliardera opodatkowanie robotów wykonujących pracę oraz tokenów AI pozwoli Stanom Zjednoczonym utrzymać system zabezpieczeń społecznych.</description>
-			<guid isPermaLink="false">ebbde63e-fae6-4f71-8aa0-774cd538c8fb</guid>
-			<pubDate>Wed, 30 Sep 2026 18:48:34 GMT</pubDate>
-			<category>technologie</category>
-			<enclosure url="https://ocdn.eu/pulscms-transforms/1/qfVk9kpTURBXy84ZjNhY2I3YmI0ZjUyNjBjZGEzZmY2MDQyMjhhOGFhMS5qcGeRkwLNBLAA3gABoTAB" type="image/jpeg" length="0"/>
 		</item>
 	</channel>
 </rss>
