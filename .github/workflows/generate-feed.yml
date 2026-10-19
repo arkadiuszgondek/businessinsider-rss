@@ -2,17 +2,23 @@ name: Generate RSS feed
 
 on:
   schedule:
-    # Pon–pt, co 15 min od 05:00 do 10:00 czasu polskiego (CEST)
-    - cron: '*/15 3-7 * * 1-5'  # 05:00–09:45 CEST
-    - cron: '0 8 * * 1-5'       # 10:00 CEST
-        # Codziennie 14:00 i 18:00 PL (zimą)
-    - cron: '0 13 * * *'   # 14:00 PL
-    - cron: '0 17 * * *'   # 18:00 PL
+    # UWAGA: cron w GitHub Actions jest ZAWSZE w UTC i nie uwzględnia DST.
+    # Godziny PL poniżej dotyczą czasu letniego (CEST, UTC+2); zimą (CET) przesuną się o -1h.
+    # Minuty celowo poza :00/:15/:30/:45, żeby unikać szczytu kolejki GitHuba.
 
+    # Pon–pt, co ~15 min od ~05:07 do ~09:52 CEST
+    - cron: '7,22,37,52 3-7 * * 1-5'
+    # Pon–pt ~10:08 CEST
+    - cron: '8 8 * * 1-5'
 
-    # Poniedziałek 19:00–22:45 PL co 15 min (czyli 18:00–21:45 UTC zimą)
-    - cron: '*/15 18-21 * * 1'
-    - cron: '0 22 * * 1'   # 23:00 PL (zimą)
+    # Codziennie ~14:08 i ~18:08 PL (lato)
+    - cron: '8 13 * * *'
+    - cron: '8 17 * * *'
+
+    # Poniedziałek wieczór, co ~15 min ~20:07–23:52 CEST
+    - cron: '7,22,37,52 18-21 * * 1'
+    # Poniedziałek ~00:08 CEST (już wtorek)
+    - cron: '8 22 * * 1'
 
   workflow_dispatch:
 
@@ -21,13 +27,14 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      actions: write          # wymagane przez keepalive-workflow
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
@@ -44,3 +51,8 @@ jobs:
           git add feed.xml state.json
           git commit -m "Update feed.xml" || echo "No changes to commit"
           git push
+
+      # Zapobiega wyłączeniu harmonogramu po 60 dniach bez aktywności.
+      # Nic nie robi, dopóki ostatni commit nie jest starszy niż ~45 dni.
+      - name: Keepalive (anti 60-day disable)
+        uses: gautamkrishnar/keepalive-workflow@v2
