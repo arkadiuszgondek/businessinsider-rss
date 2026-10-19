@@ -27,7 +27,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      actions: write          # wymagane przez keepalive-workflow
 
     steps:
       - name: Checkout repo
@@ -52,7 +51,17 @@ jobs:
           git commit -m "Update feed.xml" || echo "No changes to commit"
           git push
 
-      # Zapobiega wyłączeniu harmonogramu po 60 dniach bez aktywności.
-      # Nic nie robi, dopóki ostatni commit nie jest starszy niż ~45 dni.
+      # Keepalive bez zewnętrznej akcji: jeśli ostatni commit jest starszy niż 45 dni,
+      # robi pusty commit, żeby zresetować licznik 60 dni bezczynności.
       - name: Keepalive (anti 60-day disable)
-        uses: gautamkrishnar/keepalive-workflow@v2
+        run: |
+          LAST=$(git log -1 --format=%ct)
+          NOW=$(date +%s)
+          AGE_DAYS=$(( (NOW - LAST) / 86400 ))
+          if [ "$AGE_DAYS" -ge 45 ]; then
+            echo "Ostatni commit $AGE_DAYS dni temu — robię pusty commit."
+            git commit --allow-empty -m "chore: keepalive"
+            git push
+          else
+            echo "Ostatni commit $AGE_DAYS dni temu — keepalive niepotrzebny."
+          fi
