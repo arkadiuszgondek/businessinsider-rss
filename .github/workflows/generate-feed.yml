@@ -22,6 +22,11 @@ on:
 
   workflow_dispatch:
 
+# Runy tego workflow nigdy nie idą równolegle — kolejny czeka na zakończenie poprzedniego.
+concurrency:
+  group: generate-rss-feed
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -48,8 +53,20 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add feed.xml state.json
-          git commit -m "Update feed.xml" || echo "No changes to commit"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Update feed.xml"
+          # Do 3 prób: dociągnij zmiany z remote i wypchnij.
+          # -X theirs przy rebase = przy konflikcie wygrywa świeżo wygenerowany feed.
+          for i in 1 2 3; do
+            git pull --rebase -X theirs origin main && git push && exit 0
+            echo "Push nieudany (próba $i), ponawiam..."
+            sleep $((i * 5))
+          done
+          echo "Nie udało się wypchnąć po 3 próbach"
+          exit 1
 
       # Keepalive bez zewnętrznej akcji: jeśli ostatni commit jest starszy niż 45 dni,
       # robi pusty commit, żeby zresetować licznik 60 dni bezczynności.
