@@ -2,27 +2,15 @@ name: Generate RSS feed
 
 on:
   schedule:
-    # UWAGA: cron w GitHub Actions jest ZAWSZE w UTC i nie uwzględnia DST.
-    # Godziny PL poniżej dotyczą czasu letniego (CEST, UTC+2); zimą (CET) przesuną się o -1h.
-    # Minuty celowo poza :00/:15/:30/:45, żeby unikać szczytu kolejki GitHuba.
-
-    # Pon–pt, co ~15 min od ~05:07 do ~09:52 CEST
     - cron: '7,22,37,52 3-7 * * 1-5'
-    # Pon–pt ~10:08 CEST
     - cron: '8 8 * * 1-5'
-
-    # Codziennie ~14:08 i ~18:08 PL (lato)
     - cron: '8 13 * * *'
     - cron: '8 17 * * *'
-
-    # Poniedziałek wieczór, co ~15 min ~20:07–23:52 CEST
     - cron: '7,22,37,52 18-21 * * 1'
-    # Poniedziałek ~00:08 CEST (już wtorek)
     - cron: '8 22 * * 1'
 
   workflow_dispatch:
 
-# Runy tego workflow nigdy nie idą równolegle — kolejny czeka na zakończenie poprzedniego.
 concurrency:
   group: generate-rss-feed
   cancel-in-progress: false
@@ -36,6 +24,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -58,8 +48,6 @@ jobs:
             exit 0
           fi
           git commit -m "Update feed.xml"
-          # Do 3 prób: dociągnij zmiany z remote i wypchnij.
-          # -X theirs przy rebase = przy konflikcie wygrywa świeżo wygenerowany feed.
           for i in 1 2 3; do
             git pull --rebase -X theirs origin main && git push && exit 0
             echo "Push nieudany (próba $i), ponawiam..."
@@ -68,17 +56,12 @@ jobs:
           echo "Nie udało się wypchnąć po 3 próbach"
           exit 1
 
-      # Keepalive bez zewnętrznej akcji: jeśli ostatni commit jest starszy niż 45 dni,
-      # robi pusty commit, żeby zresetować licznik 60 dni bezczynności.
       - name: Keepalive (anti 60-day disable)
         run: |
           LAST=$(git log -1 --format=%ct)
           NOW=$(date +%s)
           AGE_DAYS=$(( (NOW - LAST) / 86400 ))
           if [ "$AGE_DAYS" -ge 45 ]; then
-            echo "Ostatni commit $AGE_DAYS dni temu — robię pusty commit."
             git commit --allow-empty -m "chore: keepalive"
             git push
-          else
-            echo "Ostatni commit $AGE_DAYS dni temu — keepalive niepotrzebny."
           fi
