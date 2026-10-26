@@ -2,18 +2,23 @@ name: Generate RSS feed
 
 on:
   schedule:
-    - cron: '7,22,37,52 3-7 * * 1-5'
-    - cron: '8 8 * * 1-5'
-    - cron: '8 13 * * *'
-    - cron: '8 17 * * *'
-    - cron: '7,22,37,52 18-21 * * 1'
-    - cron: '8 22 * * 1'
+    # Poniedzialek-piatek: rano co 30 min, 05:07-10:07 czasu polskiego
+    - cron: '7,37 5-9 * * 1-5'
+      timezone: "Europe/Warsaw"
+    - cron: '7 10 * * 1-5'
+      timezone: "Europe/Warsaw"
+
+    # Codziennie: 15:07 i 19:07 czasu polskiego
+    - cron: '7 15 * * *'
+      timezone: "Europe/Warsaw"
+    - cron: '7 19 * * *'
+      timezone: "Europe/Warsaw"
+
+    # Poniedzialek wieczorem: co 30 min, 20:07-23:37
+    - cron: '7,37 20-23 * * 1'
+      timezone: "Europe/Warsaw"
 
   workflow_dispatch:
-
-concurrency:
-  group: generate-rss-feed
-  cancel-in-progress: false
 
 jobs:
   build:
@@ -23,12 +28,10 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
           python-version: '3.11'
 
@@ -43,25 +46,5 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add feed.xml state.json
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-          git commit -m "Update feed.xml"
-          for i in 1 2 3; do
-            git pull --rebase -X theirs origin main && git push && exit 0
-            echo "Push nieudany (próba $i), ponawiam..."
-            sleep $((i * 5))
-          done
-          echo "Nie udało się wypchnąć po 3 próbach"
-          exit 1
-
-      - name: Keepalive (anti 60-day disable)
-        run: |
-          LAST=$(git log -1 --format=%ct)
-          NOW=$(date +%s)
-          AGE_DAYS=$(( (NOW - LAST) / 86400 ))
-          if [ "$AGE_DAYS" -ge 45 ]; then
-            git commit --allow-empty -m "chore: keepalive"
-            git push
-          fi
+          git commit -m "Update feed.xml" || echo "No changes to commit"
+          git push
