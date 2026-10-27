@@ -52,7 +52,11 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
+
           git add feed.xml state.json
+
           git commit -m "Update feed.xml" || echo "No changes to commit"
+
           git pull --rebase origin main
+
           git push
