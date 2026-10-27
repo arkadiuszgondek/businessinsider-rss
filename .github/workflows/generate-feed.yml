@@ -20,18 +20,25 @@ on:
 
   workflow_dispatch:
 
+concurrency:
+  group: generate-rss-feed
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
@@ -47,4 +54,5 @@ jobs:
           git config user.email "actions@github.com"
           git add feed.xml state.json
           git commit -m "Update feed.xml" || echo "No changes to commit"
+          git pull --rebase origin main
           git push
